@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/divya-36736/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/divya-36736/dsa/tree/master/0204-count-primes) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/divya-36736/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
 | ------- |
