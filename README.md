@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/divya-36736/dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/divya-36736/dsa/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divya-36736/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/divya-36736/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/divya-36736/dsa/tree/master/0287-find-the-duplicate-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divya-36736/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/divya-36736/dsa/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/divya-36736/dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/divya-36736/dsa/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/divya-36736/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divya-36736/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divya-36736/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
@@ -72,13 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divya-36736/dsa/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divya-36736/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/divya-36736/dsa/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
