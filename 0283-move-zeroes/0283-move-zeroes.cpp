@@ -15,18 +15,35 @@ public:
         //     nums[i] = 0;
         // }
 
-        for(int i = 0; i<n; i++){
-            if(nums[i] != 0){
-                temp.push_back(nums[i]);
+        // for(int i = 0; i<n; i++){
+        //     if(nums[i] != 0){
+        //         temp.push_back(nums[i]);
+        //     }
+        // }
+        // int nz = temp.size();
+        // for(int i = 0; i<nz; i++){
+        //     nums[i] = temp[i];
+        // }
+
+        // for(int i = nz; i<n; i++){
+        //     nums[i] = 0;
+        // }
+
+        //optimal approach;
+
+        int j = n; 
+        for(int i = 0; i < n; i++) {
+            if(nums[i] == 0) {
+                j = i; 
+                break;
             }
         }
-        int nz = temp.size();
-        for(int i = 0; i<nz; i++){
-            nums[i] = temp[i];
-        }
-
-        for(int i = nz; i<n; i++){
-            nums[i] = 0;
+        
+        for(int i = j + 1; i < n && j < n; i++) {
+            if(nums[i] != 0) {
+                swap(nums[i], nums[j]);
+                j++;
+            }
         }
 
     };
