@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/divya-36736/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divya-36736/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/divya-36736/dsa/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divya-36736/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/divya-36736/dsa/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
