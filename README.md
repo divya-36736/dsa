@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/divya-36736/dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/divya-36736/dsa/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/divya-36736/dsa/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/divya-36736/dsa/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/divya-36736/dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/divya-36736/dsa/tree/master/0204-count-primes) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/divya-36736/dsa/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/divya-36736/dsa/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/divya-36736/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divya-36736/dsa/tree/master/0090-subsets-ii) |
