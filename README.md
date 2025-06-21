@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/divya-36736/dsa/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/divya-36736/dsa/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/divya-36736/dsa/tree/master/1078-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/divya-36736/dsa/tree/master/1552-build-an-array-with-stack-operations) |
 ## Depth-First Search
@@ -208,4 +209,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/divya-36736/dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/divya-36736/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divya-36736/dsa/tree/master/0090-subsets-ii) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/divya-36736/dsa/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/divya-36736/dsa/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/divya-36736/dsa/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
