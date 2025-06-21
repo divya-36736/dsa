@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/divya-36736/dsa/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/divya-36736/dsa/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divya-36736/dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1552-build-an-array-with-stack-operations](https://github.com/divya-36736/dsa/tree/master/1552-build-an-array-with-stack-operations) |
 | [1646-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divya-36736/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/divya-36736/dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/divya-36736/dsa/tree/master/0067-add-binary) |
+| [1552-build-an-array-with-stack-operations](https://github.com/divya-36736/dsa/tree/master/1552-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/divya-36736/dsa/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/divya-36736/dsa/tree/master/1078-remove-outermost-parentheses) |
+| [1552-build-an-array-with-stack-operations](https://github.com/divya-36736/dsa/tree/master/1552-build-an-array-with-stack-operations) |
 ## Depth-First Search
 |  |
 | ------- |
