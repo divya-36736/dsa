@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/divya-36736/dsa/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/divya-36736/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/divya-36736/dsa/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/divya-36736/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/divya-36736/dsa/tree/master/0443-string-compression) |
 | [1078-remove-outermost-parentheses](https://github.com/divya-36736/dsa/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/2032-largest-odd-number-in-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/divya-36736/dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/divya-36736/dsa/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/divya-36736/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/divya-36736/dsa/tree/master/0496-next-greater-element-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divya-36736/dsa/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/divya-36736/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -234,4 +237,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/divya-36736/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divya-36736/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/divya-36736/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
