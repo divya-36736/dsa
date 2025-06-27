@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/divya-36736/dsa/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/divya-36736/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/divya-36736/dsa/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/divya-36736/dsa/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/divya-36736/dsa/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Array
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divya-36736/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/divya-36736/dsa/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/divya-36736/dsa/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/divya-36736/dsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/divya-36736/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divya-36736/dsa/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/divya-36736/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/divya-36736/dsa/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/divya-36736/dsa/tree/master/1078-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/divya-36736/dsa/tree/master/1552-build-an-array-with-stack-operations) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/divya-36736/dsa/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/divya-36736/dsa/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/divya-36736/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
