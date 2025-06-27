@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/divya-36736/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/divya-36736/dsa/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/divya-36736/dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divya-36736/dsa/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/divya-36736/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/divya-36736/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/divya-36736/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/divya-36736/dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/divya-36736/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divya-36736/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/divya-36736/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/divya-36736/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
