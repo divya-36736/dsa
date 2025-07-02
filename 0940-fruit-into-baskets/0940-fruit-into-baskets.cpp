@@ -20,15 +20,36 @@ public:
 
         // optimal
 
+        // int n = fruits.size();
+        // int l = 0;
+        // int r = 0;
+        // unordered_map<int, int>m;
+        // int maxlen = 0;
+        // while(r<n){
+        //     m[fruits[r]]++;
+        //     if(m.size() > 2){
+        //         while(m.size() > 2){
+        //             m[fruits[l]]--;
+        //             if(m[fruits[l]] == 0){
+        //                 m.erase(fruits[l]);
+        //             }
+        //             l++;
+        //         }
+        //     }
+        //     maxlen = max(maxlen, r-l+1);   
+        //     r++;
+        // }
+        // return maxlen;
+
         int n = fruits.size();
-        int l = 0;
+        int l =0;
         int r = 0;
         unordered_map<int, int>m;
         int maxlen = 0;
         while(r<n){
             m[fruits[r]]++;
             if(m.size() > 2){
-                while(m.size() > 2){
+                if(m.size() > 2){
                     m[fruits[l]]--;
                     if(m[fruits[l]] == 0){
                         m.erase(fruits[l]);
@@ -36,7 +57,7 @@ public:
                     l++;
                 }
             }
-            maxlen = max(maxlen, r-l+1);   
+            maxlen = max(maxlen, r-l+1);
             r++;
         }
         return maxlen;
