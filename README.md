@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/divya-36736/dsa/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/divya-36736/dsa/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/divya-36736/dsa/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/divya-36736/dsa/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/divya-36736/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/divya-36736/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/divya-36736/dsa/tree/master/0078-subsets) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/divya-36736/dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divya-36736/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divya-36736/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/divya-36736/dsa/tree/master/0338-counting-bits) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/divya-36736/dsa/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/divya-36736/dsa/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/divya-36736/dsa/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/divya-36736/dsa/tree/master/0678-valid-parenthesis-string) |
