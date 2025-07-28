@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/divya-36736/dsa/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/divya-36736/dsa/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/divya-36736/dsa/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/divya-36736/dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/divya-36736/dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/divya-36736/dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/divya-36736/dsa/tree/master/0231-power-of-two) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/divya-36736/dsa/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/divya-36736/dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divya-36736/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divya-36736/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/divya-36736/dsa/tree/master/0338-counting-bits) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/divya-36736/dsa/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
