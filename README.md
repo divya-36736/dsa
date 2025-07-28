@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/divya-36736/dsa/tree/master/1552-build-an-array-with-stack-operations) |
 | [1646-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divya-36736/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divya-36736/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/divya-36736/dsa/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/divya-36736/dsa/tree/master/0204-count-primes) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divya-36736/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divya-36736/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/divya-36736/dsa/tree/master/0338-counting-bits) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divya-36736/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/divya-36736/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divya-36736/dsa/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/divya-36736/dsa/tree/master/0257-binary-tree-paths) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divya-36736/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Design
 |  |
 | ------- |
