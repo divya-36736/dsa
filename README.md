@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divya-36736/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divya-36736/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/divya-36736/dsa/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/divya-36736/dsa/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/divya-36736/dsa/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/divya-36736/dsa/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/divya-36736/dsa/tree/master/0055-jump-game) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/divya-36736/dsa/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/divya-36736/dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/divya-36736/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divya-36736/dsa/tree/master/0090-subsets-ii) |
