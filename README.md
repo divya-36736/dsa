@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/divya-36736/dsa/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/divya-36736/dsa/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/divya-36736/dsa/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/divya-36736/dsa/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divya-36736/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/divya-36736/dsa/tree/master/0274-h-index) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/divya-36736/dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/divya-36736/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divya-36736/dsa/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/divya-36736/dsa/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/divya-36736/dsa/tree/master/0257-binary-tree-paths) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divya-36736/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Design
