@@ -3,7 +3,7 @@ public:
 
     void getsubsets(vector<int> &nums, vector<int> &ans, int i, vector<vector<int>>&allsubsets){
         if(i == nums.size()){
-            allsubsets.push_back({ans});
+            allsubsets.push_back(ans);
             return;
         }
         //include
