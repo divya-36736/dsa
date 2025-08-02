@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/divya-36736/dsa/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/divya-36736/dsa/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/divya-36736/dsa/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/divya-36736/dsa/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/divya-36736/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/divya-36736/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/divya-36736/dsa/tree/master/0078-subsets) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/divya-36736/dsa/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/divya-36736/dsa/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/divya-36736/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/divya-36736/dsa/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/divya-36736/dsa/tree/master/0130-surrounded-regions) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/divya-36736/dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/divya-36736/dsa/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/divya-36736/dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/divya-36736/dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divya-36736/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divya-36736/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
