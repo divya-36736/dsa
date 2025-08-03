@@ -23,7 +23,7 @@ public:
             
             col--;
         }
-
+        //right diagonal
         row = duprow;
         col = dupcol;
         while(row<n && col>=0){
@@ -45,14 +45,15 @@ public:
         for(int row = 0; row<n; row++){
             if(isSafe(row, col, board, n)){
                 board[row][col] = 'Q';
-                solve(col+1,board, ans, n);
-                board[row][col] = '.';
+                solve(col+1, board, ans, n); //backtracking
+                board[row][col] = '.'; //backtraking ke time hum sbko . se fill kr denge
             }
             
         }
     }
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>>ans;
+        //vector<string>board(n, string(n, '.')); or
         vector<string>board(n);
         string s(n, '.');
         for(int i= 0; i<n; i++){
