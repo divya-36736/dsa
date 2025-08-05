@@ -22,13 +22,31 @@ public:
         // for(int i = 0; i<n; i++){
         //     nums[i] = temp[i];
         // }
-       
+
+        // int n = nums.size();
+        // vector<int>temp(n);
+        // for(int i = 0; i<n; i++){
+        //     temp[(i+k)%n] = nums[i];
+        // }
+        // //copy temp to num
+        // nums = temp;
+
         int n = nums.size();
-        vector<int>temp(n);
-        for(int i = 0; i<n; i++){
-            temp[(i+k)%n] = nums[i];
+        k = k % n; // Normalize k
+
+        vector<int> temp;
+
+        // Copy last k elements
+        for (int i = n - k; i < n; i++) {
+            temp.push_back(nums[i]);
         }
-        //copy temp to num
+
+        // Copy first n - k elements
+        for (int j = 0; j < n - k; j++) {
+            temp.push_back(nums[j]);
+        }
+
+        // Assign back to nums
         nums = temp;
     }
 };
