@@ -1,19 +1,15 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
+        int cnt = 0;
         int n = nums.size();
-        int count = 0;
-        for(int i = 1; i<n; i++){
-            if(nums[i-1]>nums[i]){
-                count++;
-            } 
+
+        for(int i = 0; i < n; i++) {
+            // Compare current with next (circular)
+            if(nums[i] > nums[(i + 1) % n]) {
+                cnt++;
+            }
         }
-        if(nums[n-1]>nums[0]){
-            count++;
-        }
-        if(count>1){
-            return false;
-        }
-        return true;
+        return cnt <= 1;
     }
 };
