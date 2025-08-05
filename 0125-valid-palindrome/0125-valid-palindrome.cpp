@@ -1,32 +1,37 @@
 class Solution {
 public:
-    // bool check(int i, string s){
-    //     int n = s.length();
-    //     //base case
-    //     if(i>=s.length()-1) return true;
-    //     //check
-    //     if(tolower(s[i]) != tolower(s[n-i-1])){
-    //         return false;
-    //     }
-    //     return check(i+1, s);
-    // }
+    bool check(int i, string& clean){
+        //base case
+        int n = clean.size();
+        if(i >= n/2) return true;
+        //check
+        if(tolower(clean[i]) !=tolower(clean[n-i-1])) return false;
+        //recursive call
+        return check(i+1, clean);
+    }
     bool isPalindrome(string s) {
-        // return check(0, s);
-        int left = 0, right = s.length()-1;
-        while(left<right)
-        {
-            if(!isalnum(s[left])) 
-                left++;
-            else if(!isalnum(s[right])) 
-                right--;
-            else if(tolower(s[left])!=tolower(s[right])) 
-                return false;
-            else {
-                left++; 
-                right--;
+        string clean = "";
+        for(char c: s){
+            if(isalnum(c)){
+                clean += c;
             }
         }
-        return true;
+        // int left = 0, right = s.length()-1;
+        // while(left<right)
+        // {
+        //     if(!isalnum(s[left])) 
+        //         left++;
+        //     else if(!isalnum(s[right])) 
+        //         right--;
+        //     else if(tolower(s[left])!=tolower(s[right])) 
+        //         return false;
+        //     else {
+        //         left++; 
+        //         right--;
+        //     }
+        // }
+        // return true;
 
+        return check(0, clean);
     }
 };
