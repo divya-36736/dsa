@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/divya-36736/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/divya-36736/dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/divya-36736/dsa/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/divya-36736/dsa/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/divya-36736/dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/divya-36736/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/divya-36736/dsa/tree/master/0054-spiral-matrix) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/divya-36736/dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/divya-36736/dsa/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/divya-36736/dsa/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/divya-36736/dsa/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/divya-36736/dsa/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/divya-36736/dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/divya-36736/dsa/tree/master/0070-climbing-stairs) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/divya-36736/dsa/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/divya-36736/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/divya-36736/dsa/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/divya-36736/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/divya-36736/dsa/tree/master/0064-minimum-path-sum) |
