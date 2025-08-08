@@ -1,27 +1,27 @@
 class StockSpanner {
-private:
-    vector<int>stock;
-    stack<int>s;
-
 public:
+    vector<int> prices;   // Move outside to retain state
+    stack<int> st;
+    
     StockSpanner() {
-        
-
+        // Constructor: nothing needed
     }
     
     int next(int price) {
-        stock.push_back(price);
-        while(!s.empty() && stock[s.top()] <= price){
-            s.pop();
+        prices.push_back(price);  // Add current price
+        int i = prices.size() - 1;  // Current index
+
+        // Pop all smaller or equal prices
+        while(!st.empty() && prices[st.top()] <= price) {
+            st.pop();
         }
-        int span = s.empty() ? stock.size() : stock.size() -1- s.top();
-        s.push(stock.size()-1);
+
+        // Calculate span
+        int span = st.empty() ? i + 1 : i - st.top();
+
+        // Push current index to stack
+        st.push(i);
+
         return span;
     }
 };
-
-/**
- * Your StockSpanner object will be instantiated and called as such:
- * StockSpanner* obj = new StockSpanner();
- * int param_1 = obj->next(price);
- */
