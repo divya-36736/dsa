@@ -38,20 +38,26 @@ public:
         // return maxi;
 
 
-      vector < int > mpp(256, -1);
+     
+    //by sliding window
+    int n = s.size();
+    int f = 0;
+    int sec = 0;
+    int len = 0;
+    vector<bool>count(256, 0); //startying me sbko false
 
-      int left = 0, right = 0;
-      int n = s.size();
-      int len = 0;
-      while (right < n) {
-        if (mpp[s[right]] != -1)
-          left = max(mpp[s[right]] + 1, left);
+    while(sec<n){
+        //repeating character nhi aa jata tb tk
+        while(count[s[sec]]){
+            count[s[f]] = 0;
+            f++;
+        }
+        count[s[sec]] = 1;
+        len = max(len, sec-f+1);
+        sec++;
 
-        mpp[s[right]] = right;
+    }
+    return len;
 
-        len = max(len, right - left + 1);
-        right++;
-      }
-      return len;
     }
 };
