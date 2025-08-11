@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/divya-36736/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divya-36736/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/divya-36736/dsa/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/divya-36736/dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/divya-36736/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divya-36736/dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/divya-36736/dsa/tree/master/0125-valid-palindrome) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/divya-36736/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/divya-36736/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/divya-36736/dsa/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/divya-36736/dsa/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/divya-36736/dsa/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/divya-36736/dsa/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/divya-36736/dsa/tree/master/0051-n-queens) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/divya-36736/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/divya-36736/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/divya-36736/dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/divya-36736/dsa/tree/master/0062-unique-paths) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/divya-36736/dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divya-36736/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/divya-36736/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/divya-36736/dsa/tree/master/0144-binary-tree-preorder-traversal) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/divya-36736/dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divya-36736/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/divya-36736/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divya-36736/dsa/tree/master/0503-next-greater-element-ii) |
