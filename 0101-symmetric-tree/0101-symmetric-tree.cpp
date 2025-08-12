@@ -6,26 +6,28 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 
 public:
-    bool isymmetricfind(TreeNode* root1, TreeNode* root2){
-        if(root1 == NULL || root2 == NULL){
-            return root1 == root2;
-        }
-        
-        return (root1->val == root2->val) 
-            && isymmetricfind(root1->left, root2->right)
-            && isymmetricfind(root1->right, root2->left);
+    bool isymmetricfind(TreeNode* root1, TreeNode* root2) {
+        if (root1 == NULL && root2 == NULL)
+            return true;
+        if (root1 == NULL || root2 == NULL)
+            return false;
+
+        return (root1->val == root2->val) &&
+               isymmetricfind(root1->left, root2->right) &&
+               isymmetricfind(root1->right, root2->left);
     };
 
     bool isSymmetric(TreeNode* root) {
-       if(root == NULL){
-        return true;
-       } 
-       return isymmetricfind(root->left, root->right);
+        if (root == NULL) {
+            return true;
+        }
+        return isymmetricfind(root->left, root->right);
     }
 };
