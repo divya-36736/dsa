@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/divya-36736/dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/divya-36736/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/divya-36736/dsa/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/divya-36736/dsa/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/divya-36736/dsa/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/divya-36736/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/divya-36736/dsa/tree/master/0392-is-subsequence) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/divya-36736/dsa/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/divya-36736/dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/divya-36736/dsa/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/divya-36736/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/divya-36736/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/divya-36736/dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/divya-36736/dsa/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/divya-36736/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/divya-36736/dsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/divya-36736/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/divya-36736/dsa/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/divya-36736/dsa/tree/master/0455-assign-cookies) |
