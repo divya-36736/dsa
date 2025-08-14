@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/divya-36736/dsa/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/divya-36736/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/divya-36736/dsa/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/divya-36736/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/divya-36736/dsa/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/divya-36736/dsa/tree/master/0812-rotate-string) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/divya-36736/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/divya-36736/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/divya-36736/dsa/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/divya-36736/dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/divya-36736/dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/divya-36736/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/divya-36736/dsa/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/divya-36736/dsa/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/divya-36736/dsa/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/divya-36736/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -606,8 +610,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/divya-36736/dsa/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/divya-36736/dsa/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
