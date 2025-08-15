@@ -42,24 +42,47 @@ public:
 
         //tabulation
         //base case
-        vector<vector<int>>dp(n, vector<int>(m,0));
+        // vector<vector<int>>dp(n, vector<int>(m,0));
+        // for(int i = 0; i<n; i++){
+        //     for(int j = 0; j<m; j++){
+        //         if (obstacleGrid[i][j] == 1) {
+        //         dp[i][j] = 0; // obstacleGrid cell
+        //         continue;
+        //     }
+        //         if(i == 0 && j==0){
+        //             dp[i][j] = 1;
+        //             continue;
+        //         }
+        //         int up = 0;
+        //         int left =0;
+        //         if(i>0) up = dp[i-1][j];
+        //         if(j>0) left = dp[i][j-1];
+        //         dp[i][j] = left+up;
+        //     }
+        // }
+        // return dp[n-1][m-1];
+
+        //space optimized
+        vector<int>prev(m, 0); //represent prev row
         for(int i = 0; i<n; i++){
+            vector<int>temp(m,0); //store current row 
             for(int j = 0; j<m; j++){
                 if (obstacleGrid[i][j] == 1) {
-                dp[i][j] = 0; // obstacleGrid cell
+                temp[j] = 0; // obstacleGrid cell
                 continue;
             }
                 if(i == 0 && j==0){
-                    dp[i][j] = 1;
+                    temp[j] = 1;
                     continue;
                 }
                 int up = 0;
                 int left =0;
-                if(i>0) up = dp[i-1][j];
-                if(j>0) left = dp[i][j-1];
-                dp[i][j] = left+up;
+                if(i>0) up = prev[j];
+                if(j>0) left = temp[j-1];
+                temp[j] = left+up;
             }
+            prev = temp;
         }
-        return dp[n-1][m-1];
+        return prev[m-1];
     }
 };
