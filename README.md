@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/divya-36736/dsa/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/divya-36736/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/divya-36736/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/divya-36736/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/divya-36736/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/divya-36736/dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/divya-36736/dsa/tree/master/0485-max-consecutive-ones) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/divya-36736/dsa/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/divya-36736/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/divya-36736/dsa/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/divya-36736/dsa/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/divya-36736/dsa/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/divya-36736/dsa/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/divya-36736/dsa/tree/master/0416-partition-equal-subset-sum) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/divya-36736/dsa/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/divya-36736/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/divya-36736/dsa/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/divya-36736/dsa/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/divya-36736/dsa/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/divya-36736/dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/divya-36736/dsa/tree/master/0547-number-of-provinces) |
