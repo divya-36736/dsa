@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divya-36736/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divya-36736/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/divya-36736/dsa/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/divya-36736/dsa/tree/master/0067-add-binary) |
 | [1552-build-an-array-with-stack-operations](https://github.com/divya-36736/dsa/tree/master/1552-build-an-array-with-stack-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divya-36736/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/divya-36736/dsa/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
 |  |
 | ------- |
