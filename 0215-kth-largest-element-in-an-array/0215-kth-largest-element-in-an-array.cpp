@@ -7,19 +7,35 @@ public:
         //  sort(nums.begin(), nums.end());
         //  return nums[n-k];
 
-        // by heap
-        priority_queue<int>pq;
-        for(int i = 0; i<n; i++){
+        // by heap max heap
+        // priority_queue<int>pq;
+        // for(int i = 0; i<n; i++){
+        //     pq.push(nums[i]);
+        // }
+        // int ans = 0;
+        // while(!pq.empty()){
+        //     k--;
+        //     if(k == 0){
+        //         ans =  pq.top();
+        //     }
+        //     pq.pop();
+        // }
+        // return ans;
+
+        //min heap
+        //pq
+        priority_queue<int, vector<int>, greater<int>>pq;
+        for(int i = 0; i<k; i++){
             pq.push(nums[i]);
         }
-        int ans = 0;
-        while(!pq.empty()){
-            k--;
-            if(k == 0){
-                ans =  pq.top();
+        int idx = k;
+        while(!pq.empty() && idx<n){
+            if(nums[idx]>pq.top()){
+                pq.pop();
+                pq.push(nums[idx]);
             }
-            pq.pop();
+            idx++;
         }
-        return ans;
+        return pq.top();
     }
 };
