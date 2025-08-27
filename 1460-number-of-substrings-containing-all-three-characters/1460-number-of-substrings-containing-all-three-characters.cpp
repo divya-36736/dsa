@@ -1,20 +1,55 @@
 class Solution {
 public:
+    // bool isPresent(string &substr){
+
+    //     int n = substr.size();
+    //     vector<int>abc(3, 0);
+    //     for(char c: substr){
+    //         if(c == 'a') abc[0] = 1;
+    //         if(c == 'b') abc[1] = 1;
+    //         if(c == 'c') abc[2] = 1;
+    //     }
+    //     return abc[0] && abc[1] && abc[2];
+    // }
+
     int numberOfSubstrings(string s) {
-        int count[3] = {0, 0, 0}; // Stores the count of 'a', 'b', and 'c'
-        int left = 0, total = 0, n = s.size();
+        int n = s.size();
+        //brute force approach
+        // int cnt = 0;
+        // for(int i = 0; i<n; i++){
+        //     string substr = "";
+        //     for(int j = i; j<n; j++){
+        //         substr.push_back(s[j]);
+        //         if(isPresent(substr)){
+        //             cnt++;
+        //         }
+        //     }
+        // }
+        // return cnt;
 
-        for (int right = 0; right < n; ++right) {
-            count[s[right] - 'a']++; // Update count for the current character
+        // vector<int>lastseen(3, -1);
+        // int cnt  = 0;
+        // for(int i = 0; i<n; i++){
+        //     lastseen[s[i]-'a'] = i;
+        //     if(lastseen[0] != -1 && lastseen[1] != -1 && lastseen[2] != -1){
+        //         cnt = cnt+ (1 + min(lastseen[0], min(lastseen[1], lastseen[2])));
+        //     }
+        // }
+        // return cnt;
 
-            // Check if we have at least one of each character in the window
-            while (count[0] > 0 && count[1] > 0 && count[2] > 0) {
-                total += n - right; // Count substrings from left to the end
-                count[s[left] - 'a']--; // Shrink the window
-                left++;  
+        int l = 0;
+        int r = 0;
+        int res = 0;
+        vector<int>abc(3, 0);
+        for(int i = 0; i<n; i++){
+            abc[s[i]-'a']++;
+
+            while(abc[0]>0 && abc[1]>0 && abc[2]>0){
+                res += n - i; // all substrings starting at left and ending ≥ right
+                abc[s[l] - 'a']--;
+                l++;
             }
         }
-        
-        return total;
+        return res;
     }
 };
