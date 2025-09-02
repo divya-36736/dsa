@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/divya-36736/dsa/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/divya-36736/dsa/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/divya-36736/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/divya-36736/dsa/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/divya-36736/dsa/tree/master/0792-binary-search) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/divya-36736/dsa/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/divya-36736/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/divya-36736/dsa/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/divya-36736/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/divya-36736/dsa/tree/master/1250-longest-common-subsequence) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/divya-36736/dsa/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/divya-36736/dsa/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/divya-36736/dsa/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/divya-36736/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/2032-largest-odd-number-in-string) |
