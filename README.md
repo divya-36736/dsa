@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/divya-36736/dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/divya-36736/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Array
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/divya-36736/dsa/tree/master/0338-counting-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divya-36736/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/divya-36736/dsa/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/divya-36736/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/divya-36736/dsa/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/divya-36736/dsa/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divya-36736/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/divya-36736/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
 | ------- |
