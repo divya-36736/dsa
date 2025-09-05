@@ -14,36 +14,38 @@ public:
         // }
         // return sum;
 
+//optimal solution using NSE, PSE(next smallest element and previous smallest element) 
+//form pse and nse we find the contribution of every element
+        
         int n = arr.size();
-
-        vector<int> left(n), right(n);
+        vector<int> pse(n), nse(n);
         stack<int> st;
 
-        // Step 1: Find previous less element distance (left span)
+        // Previous Smaller Element (distance)
         for (int i = 0; i < n; i++) {
             while (!st.empty() && arr[st.top()] > arr[i]) {
                 st.pop();
             }
-            left[i] = st.empty() ? (i + 1) : (i - st.top());
+            pse[i] = st.empty() ? (i + 1) : (i - st.top());
             st.push(i);
         }
 
-        // Clear stack for next pass
+        // clear stack
         while (!st.empty()) st.pop();
 
-        // Step 2: Find next less-or-equal element distance (right span)
+        // Next Smaller Element (distance)
         for (int i = n - 1; i >= 0; i--) {
             while (!st.empty() && arr[st.top()] >= arr[i]) {
                 st.pop();
             }
-            right[i] = st.empty() ? (n - i) : (st.top() - i);
+            nse[i] = st.empty() ? (n - i) : (st.top() - i);
             st.push(i);
         }
 
-        // Step 3: Calculate contributions
+        // Contribution
         long long res = 0;
         for (int i = 0; i < n; i++) {
-            long long contrib = (1LL * arr[i] * left[i] * right[i]) % MOD;
+            long long contrib = (1LL * arr[i] * pse[i] * nse[i]) % MOD;
             res = (res + contrib) % MOD;
         }
 
