@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/divya-36736/dsa/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/divya-36736/dsa/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/divya-36736/dsa/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/divya-36736/dsa/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divya-36736/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/divya-36736/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/divya-36736/dsa/tree/master/0392-is-subsequence) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/divya-36736/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/divya-36736/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/divya-36736/dsa/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/divya-36736/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/divya-36736/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
