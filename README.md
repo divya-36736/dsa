@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/divya-36736/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/divya-36736/dsa/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/divya-36736/dsa/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/divya-36736/dsa/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/divya-36736/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/divya-36736/dsa/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/divya-36736/dsa/tree/master/0365-water-and-jug-problem) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/divya-36736/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/divya-36736/dsa/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/divya-36736/dsa/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/divya-36736/dsa/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/divya-36736/dsa/tree/master/1370-count-number-of-nice-subarrays) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/divya-36736/dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/divya-36736/dsa/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/divya-36736/dsa/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/divya-36736/dsa/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/divya-36736/dsa/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/divya-36736/dsa/tree/master/1552-build-an-array-with-stack-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divya-36736/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
