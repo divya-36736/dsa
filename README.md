@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/divya-36736/dsa/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/divya-36736/dsa/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/divya-36736/dsa/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/divya-36736/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/divya-36736/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/divya-36736/dsa/tree/master/0678-valid-parenthesis-string) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/divya-36736/dsa/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/divya-36736/dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/divya-36736/dsa/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/divya-36736/dsa/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/divya-36736/dsa/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/divya-36736/dsa/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/0540-single-element-in-a-sorted-array) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divya-36736/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/divya-36736/dsa/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/divya-36736/dsa/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divya-36736/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/divya-36736/dsa/tree/master/0940-fruit-into-baskets) |
