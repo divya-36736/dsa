@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/divya-36736/dsa/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/divya-36736/dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divya-36736/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/divya-36736/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/divya-36736/dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/divya-36736/dsa/tree/master/0735-asteroid-collision) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/divya-36736/dsa/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/divya-36736/dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divya-36736/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divya-36736/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/divya-36736/dsa/tree/master/0940-fruit-into-baskets) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/divya-36736/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/divya-36736/dsa/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/divya-36736/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divya-36736/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/divya-36736/dsa/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/divya-36736/dsa/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/divya-36736/dsa/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/divya-36736/dsa/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
