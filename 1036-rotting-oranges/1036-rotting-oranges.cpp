@@ -1,42 +1,46 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int n = grid.size(); //row
-        int m = grid[0].size() ;// colom;
-        int days = 0, fresh = 0, cnt = 0;
+        //bfs travesing
+        int n = grid.size();
+        int m = grid[0].size();
+        //visit
+        vector<vector<int>>vis(n , vector<int>(m,0));
+        queue<pair<int, int>>q;
 
-        queue<pair<int, int>>rotten; //position(x,y)
+        int fresh = 0;
         for(int i = 0; i<n; i++){
             for(int j = 0; j<m; j++){
-                if(grid[i][j] != 0) fresh++;
-                if(grid[i][j] == 2) rotten.push({i,j});
-            }
-        }
-
-        int dx[4] = {-1, 0, 1, 0};
-        int dy[4] = {0, -1, 0, 1};
-
-        //bfs traversing
-        while(!rotten.empty()){
-            int k = rotten.size();
-            cnt += k;
-
-            while(k--){
-                int x = rotten.front().first;
-                int y = rotten.front().second;
-                rotten.pop();
-                for(int i = 0; i<4; i++){
-                    int nx = x+dx[i];
-                    int ny = y+dy[i];
-                    if(nx<0 || ny<0 || nx>=n || ny>=m|| grid[nx][ny] != 1) continue;
-                    grid[nx][ny] = 2;
-                    
-                    rotten.push({nx, ny});
+                if(grid[i][j] == 2){
+                    q.push({i, j});
+                    vis[i][j] = 1;
+                }else if(grid[i][j] == 1){
+                    fresh++;
                 }
             }
-            if(!rotten.empty()) days++;
         }
-         return fresh == cnt ? days : -1;
-
+        int time = -1;
+        int dx[] = {1, 0, -1, 0};
+        int dy[] = {0, 1, 0, -1};
+        while(!q.empty()){
+            int size = q.size();
+            time++;
+            for(int k = 0; k<size; k++){
+                auto [x,y] = q.front();
+                q.pop();
+                for(int dir = 0; dir<4; dir++){
+                    int nx = x+dx[dir];
+                    int ny = y+dy[dir];
+                    if(nx>=0 && nx<n && ny>=0 && ny<m && !vis[nx][ny] && grid[nx][ny] == 1){
+                        vis[nx][ny] = 1;
+                        grid[nx][ny] =1;
+                        q.push({nx, ny});
+                        fresh--;
+                    }
+                }
+            }
+        }
+        if(fresh>0) return -1;
+        return max(0, time);
     }
 };
