@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/divya-36736/dsa/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/divya-36736/dsa/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/divya-36736/dsa/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/divya-36736/dsa/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/divya-36736/dsa/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/divya-36736/dsa/tree/master/1370-count-number-of-nice-subarrays) |
