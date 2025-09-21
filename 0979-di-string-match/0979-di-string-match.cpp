@@ -3,7 +3,7 @@ public:
     vector<int> diStringMatch(string s) {
         int n = s.size();
         vector<int> ans;
-        ans.reserve(n+1); // optimization
+        //ans.reserve(n+1); // optimization
 
         int low = 0, high = n;
         for (char c : s) {
