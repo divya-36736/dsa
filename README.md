@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/divya-36736/dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/divya-36736/dsa/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/divya-36736/dsa/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/divya-36736/dsa/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/divya-36736/dsa/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/divya-36736/dsa/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/divya-36736/dsa/tree/master/0503-next-greater-element-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/divya-36736/dsa/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/divya-36736/dsa/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/divya-36736/dsa/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/divya-36736/dsa/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/divya-36736/dsa/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/divya-36736/dsa/tree/master/1552-build-an-array-with-stack-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divya-36736/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
