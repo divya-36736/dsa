@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divya-36736/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/divya-36736/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/divya-36736/dsa/tree/master/0908-middle-of-the-linked-list) |
+| [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/divya-36736/dsa/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/divya-36736/dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/divya-36736/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/divya-36736/dsa/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/divya-36736/dsa/tree/master/0812-rotate-string) |
+| [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/divya-36736/dsa/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/divya-36736/dsa/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/divya-36736/dsa/tree/master/1250-longest-common-subsequence) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/divya-36736/dsa/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/divya-36736/dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/divya-36736/dsa/tree/master/0966-binary-subarrays-with-sum) |
+| [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/divya-36736/dsa/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/divya-36736/dsa/tree/master/1046-max-consecutive-ones-iii) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/divya-36736/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0890-lemonade-change) |
+| [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/divya-36736/dsa/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/divya-36736/dsa/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2032-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/2032-largest-odd-number-in-string) |
