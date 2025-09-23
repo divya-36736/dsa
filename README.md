@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/divya-36736/dsa/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/divya-36736/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3827-implement-router](https://github.com/divya-36736/dsa/tree/master/3827-implement-router) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/divya-36736/dsa/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/divya-36736/dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/divya-36736/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3827-implement-router](https://github.com/divya-36736/dsa/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/divya-36736/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/divya-36736/dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/divya-36736/dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/divya-36736/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/divya-36736/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
