@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/divya-36736/dsa/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divya-36736/dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/divya-36736/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Linked List
 |  |
@@ -962,12 +963,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divya-36736/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divya-36736/dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/divya-36736/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/divya-36736/dsa/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1004,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Quickselect
 |  |
 | ------- |
