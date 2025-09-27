@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/divya-36736/dsa/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/divya-36736/dsa/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/divya-36736/dsa/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/divya-36736/dsa/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/divya-36736/dsa/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/divya-36736/dsa/tree/master/0542-01-matrix) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/divya-36736/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/divya-36736/dsa/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/divya-36736/dsa/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/divya-36736/dsa/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/divya-36736/dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/divya-36736/dsa/tree/master/0611-valid-triangle-number) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/divya-36736/dsa/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divya-36736/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/divya-36736/dsa/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/divya-36736/dsa/tree/master/1127-last-stone-weight) |
