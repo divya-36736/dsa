@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/divya-36736/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/divya-36736/dsa/tree/master/0908-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
+| [1009-pancake-sorting](https://github.com/divya-36736/dsa/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/divya-36736/dsa/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/divya-36736/dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/divya-36736/dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/divya-36736/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
+| [1009-pancake-sorting](https://github.com/divya-36736/dsa/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/divya-36736/dsa/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/divya-36736/dsa/tree/master/1046-max-consecutive-ones-iii) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/divya-36736/dsa/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
+| [1009-pancake-sorting](https://github.com/divya-36736/dsa/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/divya-36736/dsa/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
+| [1009-pancake-sorting](https://github.com/divya-36736/dsa/tree/master/1009-pancake-sorting) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/divya-36736/dsa/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/divya-36736/dsa/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/divya-36736/dsa/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
