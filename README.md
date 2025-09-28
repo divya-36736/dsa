@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/divya-36736/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
 | [1009-pancake-sorting](https://github.com/divya-36736/dsa/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/divya-36736/dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/divya-36736/dsa/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/divya-36736/dsa/tree/master/1046-max-consecutive-ones-iii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/divya-36736/dsa/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/divya-36736/dsa/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/divya-36736/dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/divya-36736/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divya-36736/dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/divya-36736/dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [1009-pancake-sorting](https://github.com/divya-36736/dsa/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/divya-36736/dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/divya-36736/dsa/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
 | [1009-pancake-sorting](https://github.com/divya-36736/dsa/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/divya-36736/dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/divya-36736/dsa/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/divya-36736/dsa/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/divya-36736/dsa/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
