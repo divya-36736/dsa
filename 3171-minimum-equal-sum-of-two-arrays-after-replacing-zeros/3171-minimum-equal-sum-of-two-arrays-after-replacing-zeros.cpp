@@ -13,17 +13,14 @@ public:
             sum2 += x;
         }
 
-        long long minSum1 = sum1 + z1; // replace zeros with 1
-        long long minSum2 = sum2 + z2;
-
         if (z1 > 0 && z2 > 0) {
-            return max(minSum1, minSum2);  // always possible
+            return max(sum1 + z1, sum2 + z2);
         }
         else if (z1 > 0) {
-            return (minSum1 <= sum2 ? sum2 : -1);
+            return (sum1 + z1 <= sum2 ? sum2 : -1);
         }
         else if (z2 > 0) {
-            return (minSum2 <= sum1 ? sum1 : -1);
+            return (sum2 + z2 <= sum1 ? sum1 : -1);
         }
         else {
             return (sum1 == sum2 ? sum1 : -1);
