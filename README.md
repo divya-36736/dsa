@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/divya-36736/dsa/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/divya-36736/dsa/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/divya-36736/dsa/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/divya-36736/dsa/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/divya-36736/dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/divya-36736/dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/divya-36736/dsa/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/divya-36736/dsa/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/divya-36736/dsa/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/divya-36736/dsa/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/divya-36736/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/divya-36736/dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divya-36736/dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divya-36736/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0924-fair-candy-swap](https://github.com/divya-36736/dsa/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/divya-36736/dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/divya-36736/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divya-36736/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/divya-36736/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
+| [0924-fair-candy-swap](https://github.com/divya-36736/dsa/tree/master/0924-fair-candy-swap) |
 | [1009-pancake-sorting](https://github.com/divya-36736/dsa/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/divya-36736/dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/1019-squares-of-a-sorted-array) |
