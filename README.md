@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/divya-36736/dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/divya-36736/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/divya-36736/dsa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/divya-36736/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/divya-36736/dsa/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/divya-36736/dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/divya-36736/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/divya-36736/dsa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/divya-36736/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/divya-36736/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/divya-36736/dsa/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/divya-36736/dsa/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/divya-36736/dsa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/divya-36736/dsa/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Trie
 |  |
