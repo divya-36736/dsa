@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/divya-36736/dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/divya-36736/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/divya-36736/dsa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/divya-36736/dsa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/divya-36736/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/divya-36736/dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divya-36736/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/divya-36736/dsa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Number Theory
 |  |
 | ------- |
