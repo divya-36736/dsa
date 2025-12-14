@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/divya-36736/dsa/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/divya-36736/dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divya-36736/dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/divya-36736/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/divya-36736/dsa/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/divya-36736/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/divya-36736/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2553-separate-the-digits-in-an-array](https://github.com/divya-36736/dsa/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/divya-36736/dsa/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-water-bottles-ii](https://github.com/divya-36736/dsa/tree/master/3336-water-bottles-ii) |
@@ -1151,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/divya-36736/dsa/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/divya-36736/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/divya-36736/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/divya-36736/dsa/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
