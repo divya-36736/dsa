@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/divya-36736/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/divya-36736/dsa/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/divya-36736/dsa/tree/master/2553-separate-the-digits-in-an-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divya-36736/dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/divya-36736/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/divya-36736/dsa/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/divya-36736/dsa/tree/master/2047-find-a-peak-element-ii) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divya-36736/dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/divya-36736/dsa/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3827-implement-router](https://github.com/divya-36736/dsa/tree/master/3827-implement-router) |
 ## Matrix
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/divya-36736/dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divya-36736/dsa/tree/master/2215-finding-3-digit-even-numbers) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divya-36736/dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/divya-36736/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/divya-36736/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/divya-36736/dsa/tree/master/1970-sorting-the-sentence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divya-36736/dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divya-36736/dsa/tree/master/2215-finding-3-digit-even-numbers) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divya-36736/dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/divya-36736/dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3606-coupon-code-validator](https://github.com/divya-36736/dsa/tree/master/3606-coupon-code-validator) |
@@ -844,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/divya-36736/dsa/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2032-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/divya-36736/dsa/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divya-36736/dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/divya-36736/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/divya-36736/dsa/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/divya-36736/dsa/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
