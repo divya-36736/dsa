@@ -3,17 +3,24 @@ public:
     long long pickGifts(vector<int>& gifts, int k) {
         int n = gifts.size();
 
-        while (k-- > 0) {
-            // sort every time to get current maximum
-            sort(gifts.begin(), gifts.end());
-
-            // pick the largest gift
-            gifts[n - 1] = sqrt(gifts[n - 1]);
+        priority_queue<long long> pq;
+        for (int i = 0; i < n; i++) {
+            pq.push(gifts[i]);
         }
 
-        long long sum = 0;
-        for (int i = 0; i < n; i++) {
-            sum += gifts[i];
+        while (k > 0) {
+            long long topElement = pq.top();
+            pq.pop();
+
+            topElement = sqrt(topElement);
+            pq.push(topElement);
+            k--;
+        }
+
+        long long sum = 0;  // int to long long
+        while (!pq.empty()) {
+            sum += pq.top();
+            pq.pop();
         }
 
         return sum;
