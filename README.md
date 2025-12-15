@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/divya-36736/dsa/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/divya-36736/dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/divya-36736/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/divya-36736/dsa/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/divya-36736/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/divya-36736/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/divya-36736/dsa/tree/master/0322-coin-change) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/divya-36736/dsa/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/divya-36736/dsa/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divya-36736/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/divya-36736/dsa/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divya-36736/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/divya-36736/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/divya-36736/dsa/tree/master/0733-flood-fill) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/divya-36736/dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/divya-36736/dsa/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/divya-36736/dsa/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/divya-36736/dsa/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/divya-36736/dsa/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/divya-36736/dsa/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/divya-36736/dsa/tree/master/0495-teemo-attacking) |
