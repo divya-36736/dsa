@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/divya-36736/dsa/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/divya-36736/dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/divya-36736/dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/divya-36736/dsa/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/divya-36736/dsa/tree/master/3606-coupon-code-validator) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/divya-36736/dsa/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-water-bottles-ii](https://github.com/divya-36736/dsa/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/divya-36736/dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/divya-36736/dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/divya-36736/dsa/tree/master/3830-find-closest-person) |
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2536-increment-submatrices-by-one](https://github.com/divya-36736/dsa/tree/master/2536-increment-submatrices-by-one) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/divya-36736/dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Tree
 |  |
 | ------- |
