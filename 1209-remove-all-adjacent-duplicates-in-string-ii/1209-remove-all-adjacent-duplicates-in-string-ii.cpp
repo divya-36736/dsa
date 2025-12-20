@@ -14,14 +14,11 @@ public:
         }
 
         string ans = "";
-        while(!st.empty()){
-            if(st.top().second<k){
-                for(int i = 0; i<st.top().second; i++){
-                    ans += st.top().first;
-                }
-            }
+        while(!st.empty()) {
+            ans.append(st.top().second, st.top().first);
             st.pop();
         }
+
         reverse(ans.begin(), ans.end());
 
         return ans;
