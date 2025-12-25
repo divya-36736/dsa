@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/divya-36736/dsa/tree/master/0907-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/divya-36736/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0924-fair-candy-swap](https://github.com/divya-36736/dsa/tree/master/0924-fair-candy-swap) |
+| [0932-beautiful-array](https://github.com/divya-36736/dsa/tree/master/0932-beautiful-array) |
 | [0940-fruit-into-baskets](https://github.com/divya-36736/dsa/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/divya-36736/dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0944-delete-columns-to-make-sorted) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/divya-36736/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/divya-36736/dsa/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/divya-36736/dsa/tree/master/0830-largest-triangle-area) |
+| [0932-beautiful-array](https://github.com/divya-36736/dsa/tree/master/0932-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/divya-36736/dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/divya-36736/dsa/tree/master/1025-divisor-game) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/divya-36736/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divya-36736/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/divya-36736/dsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/divya-36736/dsa/tree/master/0932-beautiful-array) |
 | [1873-longest-nice-substring](https://github.com/divya-36736/dsa/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
