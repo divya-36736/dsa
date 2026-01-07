@@ -2,15 +2,17 @@ class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
         int n = nums.size();
-        vector<bool> seen(n, false);
-        vector<int> res;
-        for (int i = 0; i < n; i++) {
-            if (seen[nums[i]]) {
-                res.push_back(nums[i]);
-            } else {
-                seen[nums[i]] = true;
+        unordered_map<int, int>mp;
+        vector<int>ans;
+        for(int num: nums){
+            mp[num]++;
+        }
+        for(auto it:mp){
+            if(it.second == 2){
+                ans.push_back(it.first);
             }
         }
-        return res;
+        sort(ans.begin(), ans.end());
+        return ans;
     }
 };
