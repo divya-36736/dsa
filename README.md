@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divya-36736/dsa/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/divya-36736/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/divya-36736/dsa/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Linked List
 |  |
 | ------- |
