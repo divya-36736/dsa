@@ -1,56 +1,31 @@
 class Solution {
 public:
-    int maxDepth = 0;
-    vector<TreeNode*> deepest;
-
-    // Step 1: find maximum depth
-    void findDepth(TreeNode* root, int depth) {
-        if (!root) return;
-
-        maxDepth = max(maxDepth, depth);
-        findDepth(root->left, depth + 1);
-        findDepth(root->right, depth + 1);
-    }
-
-    // Step 2: collect deepest nodes
-    void collectDeepest(TreeNode* root, int depth) {
-        if (!root) return;
-
-        if (depth == maxDepth) {
-            deepest.push_back(root);
+    // helper function: returns {depth, subtree_root}
+    pair<int, TreeNode*> dfs(TreeNode* root) {
+        // base case
+        if (root == NULL) {
+            return {0, NULL};
         }
 
-        collectDeepest(root->left, depth + 1);
-        collectDeepest(root->right, depth + 1);
-    }
+        // recurse on left and right subtrees
+        auto left = dfs(root->left);
+        auto right = dfs(root->right);
 
-    // Step 3: LCA of two nodes
-    TreeNode* lca(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if (!root || root == p || root == q)
-            return root;
+        // if both sides have same depth, current node is answer
+        if (left.first == right.first) {
+            return {left.first + 1, root};
+        }
 
-        TreeNode* left = lca(root->left, p, q);
-        TreeNode* right = lca(root->right, p, q);
+        // if left subtree is deeper
+        if (left.first > right.first) {
+            return {left.first + 1, left.second};
+        }
 
-        if (left && right) return root;
-        return left ? left : right;
+        // if right subtree is deeper
+        return {right.first + 1, right.second};
     }
 
     TreeNode* subtreeWithAllDeepest(TreeNode* root) {
-        if (!root) return NULL;
-
-        // Step 1
-        findDepth(root, 0);
-
-        // Step 2
-        collectDeepest(root, 0);
-
-        // Step 3
-        TreeNode* ans = deepest[0];
-        for (int i = 1; i < deepest.size(); i++) {
-            ans = lca(root, ans, deepest[i]);
-        }
-
-        return ans;
+        return dfs(root).second;
     }
 };
