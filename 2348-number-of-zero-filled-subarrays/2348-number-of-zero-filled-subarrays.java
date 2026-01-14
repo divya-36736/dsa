@@ -7,13 +7,12 @@ class Solution {
         for (int i = 0; i < n; i++) {
             if (nums[i] == 0) {
                 cnt++;
-            } else {
-                ans += cnt * (cnt + 1) / 2;
+                ans += cnt;
+            }
+            else{
                 cnt = 0;
             }
         }
-
-        ans += cnt * (cnt + 1) / 2;
 
         return ans;
     }
