@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divya-36736/dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/divya-36736/dsa/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divya-36736/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/divya-36736/dsa/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2381-shifting-letters-ii](https://github.com/divya-36736/dsa/tree/master/2381-shifting-letters-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/divya-36736/dsa/tree/master/2536-increment-submatrices-by-one) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/divya-36736/dsa/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divya-36736/dsa/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/divya-36736/dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divya-36736/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/divya-36736/dsa/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/divya-36736/dsa/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2549-count-distinct-numbers-on-board](https://github.com/divya-36736/dsa/tree/master/2549-count-distinct-numbers-on-board) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/divya-36736/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
