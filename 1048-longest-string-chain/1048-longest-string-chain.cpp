@@ -23,8 +23,9 @@ public:
         int n = words.size();
         sort(words.begin(), words.end(), compare); //size ke according sorting
         vector<int>dp(n, 1);
+        if(words.size() == 1) return 1;
         int maxlen = 0;
-        for(int i = 0; i<n; i++){
+        for(int i = 1; i<n; i++){
             for(int j = 0; j<i; j++){
                 if(checkPossible(words[i], words[j]) && dp[j]+1 > dp[i]){
                     dp[i] = dp[j]+1; //length update
