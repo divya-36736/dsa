@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/divya-36736/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/divya-36736/dsa/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/divya-36736/dsa/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/divya-36736/dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/divya-36736/dsa/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/divya-36736/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/divya-36736/dsa/tree/master/0165-compare-version-numbers) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/divya-36736/dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divya-36736/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/divya-36736/dsa/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/divya-36736/dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/divya-36736/dsa/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/divya-36736/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/divya-36736/dsa/tree/master/0198-house-robber) |
