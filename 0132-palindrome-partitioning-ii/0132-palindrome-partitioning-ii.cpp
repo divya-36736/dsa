@@ -1,37 +1,30 @@
 class Solution {
 public:
-    bool isPalindrom(string &temp){
-        int i = 0, j = temp.size() - 1;
+    bool isPalindrom(int i, int j, string &s){
         while(i < j){
-            if(temp[i] != temp[j]) return false;
+            if(s[i] != s[j]) return false;
             i++;
             j--;
         }
         return true;
     }
 
-    int f(int i, string &s, vector<int> &dp){
-        int n = s.size();
-        if(i == n) return 0;
-
-        if(dp[i] != -1) return dp[i];
-
-        string temp = "";
-        int minCost = INT_MAX;
-
-        for(int j = i; j < n; j++){
-            temp += s[j];
-            if(isPalindrom(temp)){
-                int cost = 1 + f(j + 1, s, dp);
-                minCost = min(minCost, cost);
-            }
-        }
-        return dp[i] = minCost;
-    }
-
     int minCut(string s) {
         int n = s.size();
-        vector<int> dp(n, -1);
-        return f(0, s, dp) - 1;
+        vector<int> dp(n + 1, 0);
+
+        dp[n] = -1; 
+
+        for(int i = n - 1; i >= 0; i--){
+            int minCuts = INT_MAX;
+            for(int j = i; j < n; j++){
+                if(isPalindrom(i, j, s)){
+                    int cost = 1 + dp[j + 1];
+                    minCuts = min(minCuts, cost);
+                }
+            }
+            dp[i] = minCuts;
+        }
+        return dp[0];
     }
 };
