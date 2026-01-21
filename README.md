@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/divya-36736/dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/divya-36736/dsa/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/divya-36736/dsa/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/divya-36736/dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/divya-36736/dsa/tree/master/3477-fruits-into-baskets-ii) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/divya-36736/dsa/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/divya-36736/dsa/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/divya-36736/dsa/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/divya-36736/dsa/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/divya-36736/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
