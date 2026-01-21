@@ -1,6 +1,11 @@
 # Write your MySQL query statement below
 #W1 current and w2 is perivous
-SELECT w1.id FROM Weather w1
-INNER JOIN Weather w2
-ON DATEDIFF(w1.recordDate, w2.recordDate) = 1
-AND w1.temperature > w2.temperature;
+#brute force
+SELECT id
+FROM Weather w
+WHERE temperature >
+(
+    SELECT temperature
+    FROM Weather
+    WHERE recordDate = DATE_SUB(w.recordDate, INTERVAL 1 DAY)
+);
