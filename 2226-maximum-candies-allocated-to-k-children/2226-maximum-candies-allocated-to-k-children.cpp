@@ -1,37 +1,38 @@
 class Solution {
 public:
+    long long countChild(vector<int>& candies, long long mid){
+        long long totalChild = 0;
+        for(int c : candies){
+            totalChild += c/mid;
+        }
+        return totalChild;
+    }
     int maximumCandies(vector<int>& candies, long long k) {
         int n = candies.size();
+        //int maxval = *max_element(candies.begin(), candies.end());
+        int maxval = 0;
         long long sum = 0;
-        int maxCandy = 0;
-
-        for(int i = 0; i < n; i++){
-            sum += candies[i];
-            maxCandy = max(maxCandy, candies[i]);
+        for(int c : candies){
+            sum += c;
+            maxval = max(maxval, c);
         }
+        if(sum < k) return 0;
 
-        if(sum < k){
-            return 0;
-        }
+        int st = 1;
+        int end = maxval;
 
-        int left = 1, right = maxCandy, result = 0;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            long long count = 0;
-
-            for (int c : candies) {
-                count += c / mid;  // Count how many children can get 'mid' candies
+        int res = 0;
+        while(st<=end){
+            long long mid = st+(end-st)/2;
+            long long children = countChild(candies, mid);
+            if(children >= k){
+                res = mid;
+                st = mid + 1;
             }
-
-            if (count >= k) {  
-                result = mid;  
-                left = mid + 1;  // Try to maximize the answer
-            } else {
-                right = mid - 1;  // Reduce mid
+            else{
+                end = mid-1;
             }
         }
-
-        return result;
+        return res;
     }
 };
