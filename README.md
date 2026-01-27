@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/divya-36736/dsa/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/divya-36736/dsa/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divya-36736/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/divya-36736/dsa/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0890-lemonade-change) |
 | [0896-monotonic-array](https://github.com/divya-36736/dsa/tree/master/0896-monotonic-array) |
 | [0907-koko-eating-bananas](https://github.com/divya-36736/dsa/tree/master/0907-koko-eating-bananas) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/divya-36736/dsa/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/divya-36736/dsa/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divya-36736/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/divya-36736/dsa/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/divya-36736/dsa/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/divya-36736/dsa/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/divya-36736/dsa/tree/master/1046-max-consecutive-ones-iii) |
