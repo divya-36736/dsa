@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/divya-36736/dsa/tree/master/1755-defuse-the-bomb) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/divya-36736/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/divya-36736/dsa/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/divya-36736/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divya-36736/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divya-36736/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/divya-36736/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/divya-36736/dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/divya-36736/dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/divya-36736/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
