@@ -1,24 +1,33 @@
 class Solution {
 public:
-    int change(string answerKey, int k, char c){
-        int l = 0;
-        int cnt = 0;
+    int changes(string answerKey, int k, char target) {
+        int n = answerKey.size();
+        int left = 0;
+        int cnt = 0;       // number of flips used
         int maxlen = 0;
-        for(int r = 0; r<answerKey.size(); r++){
-            if(answerKey[r] != c){
-                cnt++; //need to change
+
+        for (int right = 0; right < n; right++) {
+            if (answerKey[right] != target) {
+                cnt++;    // need to flip this
             }
-            while(cnt > k){
-                if(answerKey[l] != c){
+
+            while (cnt > k) {
+                if (answerKey[left] != target) {
                     cnt--;
                 }
-                l++;
+                left++;
             }
-            maxlen = max(maxlen, r-l+1);
+
+            maxlen = max(maxlen, right - left + 1);
         }
+
         return maxlen;
     }
+
     int maxConsecutiveAnswers(string answerKey, int k) {
-        return max(change(answerKey, k, 'T'), change(answerKey, k, 'F'));
+        return max(
+            changes(answerKey, k, 'T'),
+            changes(answerKey, k, 'F')
+        );
     }
 };
