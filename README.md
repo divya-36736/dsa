@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/divya-36736/dsa/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/divya-36736/dsa/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divya-36736/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/divya-36736/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2032-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/divya-36736/dsa/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/divya-36736/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/divya-36736/dsa/tree/master/1901-find-a-peak-element-ii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/divya-36736/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2047-find-a-peak-element-ii](https://github.com/divya-36736/dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/divya-36736/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/divya-36736/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -1116,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/divya-36736/dsa/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/divya-36736/dsa/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/divya-36736/dsa/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/divya-36736/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divya-36736/dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/divya-36736/dsa/tree/master/2211-k-radius-subarray-averages) |
 ## Prefix Sum
@@ -1128,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/divya-36736/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/divya-36736/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/divya-36736/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2381-shifting-letters-ii](https://github.com/divya-36736/dsa/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/divya-36736/dsa/tree/master/2483-minimum-penalty-for-a-shop) |
