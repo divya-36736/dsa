@@ -1423,4 +1423,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/divya-36736/dsa/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/divya-36736/dsa/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/divya-36736/dsa/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/divya-36736/dsa/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
