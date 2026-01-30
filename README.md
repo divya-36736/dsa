@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/divya-36736/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divya-36736/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/divya-36736/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/divya-36736/dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-build-an-array-with-stack-operations](https://github.com/divya-36736/dsa/tree/master/1552-build-an-array-with-stack-operations) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divya-36736/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divya-36736/dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/divya-36736/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divya-36736/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divya-36736/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
