@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/divya-36736/dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-build-an-array-with-stack-operations](https://github.com/divya-36736/dsa/tree/master/1552-build-an-array-with-stack-operations) |
+| [1552-magnetic-force-between-two-balls](https://github.com/divya-36736/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divya-36736/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1646-kth-missing-positive-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/divya-36736/dsa/tree/master/1710-maximum-units-on-a-truck) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/divya-36736/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divya-36736/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/divya-36736/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divya-36736/dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/divya-36736/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/divya-36736/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/divya-36736/dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1552-magnetic-force-between-two-balls](https://github.com/divya-36736/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/divya-36736/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/divya-36736/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/divya-36736/dsa/tree/master/1970-sorting-the-sentence) |
