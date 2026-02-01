@@ -2,12 +2,14 @@ class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
         int n = nums.size();
+        vector<long long>prefix(n, 0);
+        prefix[0] = nums[0];
 
-        long long total = 0;
-        for(int num : nums){
-            total += num;
+        for(int i = 1; i<n; i++){
+            prefix[i] = prefix[i-1] + nums[i];
         }
 
+        long long total = prefix[n-1];
         long long leftsum = 0;
         int cnt = 0;
 
