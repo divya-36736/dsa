@@ -1,38 +1,38 @@
 class Solution {
 public:
-    int countPartition(vector<int>&nums, int maxSum){
-        int n = nums.size();
+    int countPartition(vector<int>&nums, int allowValue){
         int partition = 1;
-        long long subarr = 0;
+        long long subArraySum = 0;
+        int n = nums.size();
         for(int i = 0; i<n; i++){
-            if(subarr + nums[i] <= maxSum){
-                subarr += nums[i];
-            }
-            else{
+            if(subArraySum + nums[i] <= allowValue){
+                subArraySum += nums[i];
+
+            }else{
                 partition++;
-                subarr = nums[i];
+                subArraySum = nums[i];
             }
         }
         return partition;
     }
     int splitArray(vector<int>& nums, int k) {
+        int n = nums.size();
         int low = *max_element(nums.begin(), nums.end());
-        int high = accumulate(nums.begin(), nums.end(),0);
-        // for(int maxSum = low; maxSum<=high; maxSum++){
-        //     if(countPartition(nums, maxSum) == k){
-        //         return maxSum;
-        //     }
-        // }
-        // return low;
+        int maxVal = 0;
+        for(int num:nums){
+            maxVal += num;
+        }
+        int ans = -1;
+        int high = maxVal;
         while(low <= high){
-            int mid = low +(high-low)/2;
-            int partition = countPartition(nums, mid);
-            if(partition>k){
-                low = mid+1;
-            }else{
+            int mid = low + (high - low)/2;
+            if(countPartition(nums, mid) <= k){
+                ans = mid;
                 high = mid-1;
+            }else{
+                low = mid+1;
             }
         }
-        return low;
+        return ans;
     }
 };
