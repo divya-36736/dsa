@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/divya-36736/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2951-find-the-peaks](https://github.com/divya-36736/dsa/tree/master/2951-find-the-peaks) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/divya-36736/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/divya-36736/dsa/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/divya-36736/dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/divya-36736/dsa/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/divya-36736/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/divya-36736/dsa/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-water-bottles-ii](https://github.com/divya-36736/dsa/tree/master/3336-water-bottles-ii) |
 | [3412-find-mirror-score-of-a-string](https://github.com/divya-36736/dsa/tree/master/3412-find-mirror-score-of-a-string) |
