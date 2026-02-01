@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/divya-36736/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2742-painting-the-walls](https://github.com/divya-36736/dsa/tree/master/2742-painting-the-walls) |
 | [2951-find-the-peaks](https://github.com/divya-36736/dsa/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/divya-36736/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/divya-36736/dsa/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divya-36736/dsa/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/divya-36736/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2742-painting-the-walls](https://github.com/divya-36736/dsa/tree/master/2742-painting-the-walls) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/divya-36736/dsa/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Linked List
 |  |
