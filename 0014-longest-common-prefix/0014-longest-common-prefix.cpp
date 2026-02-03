@@ -1,14 +1,16 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
+        //sort the array and 
+        //compare 1st and last string and accodring to this i can 
+        //found out the prefix
         sort(strs.begin(), strs.end());
-        int n = strs.size();
+        string s1 = strs[0];
+        string s2 = strs[strs.size()-1];
         string ans = "";
-        string a = strs[0];
-        string b = strs[n-1];
-        for(int i = 0; i<a.size(); i++){
-            if(a[i] == b[i]){
-                ans += a[i];
+        for(int i = 0; i<s1.size(); i++){
+            if(s1[i] == s2[i]){
+                ans += s1[i];
             }
             else{
                 break;
