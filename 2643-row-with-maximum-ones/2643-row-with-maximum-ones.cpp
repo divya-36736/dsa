@@ -1,22 +1,19 @@
 class Solution {
 public:
     vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
-        int n = mat.size();
-        int m = mat[0].size();//column
-        int mini = INT_MIN;
-        int idx = 0;
-        for(int i = 0; i<n; i++){
-            int cnt = 0;
-            for(int j = 0; j<m; j++){
-                if(mat[i][j] == 1){
-                    cnt++;
-                }
+        vector<int> ans(2,-1);
+
+        for(int i = 0; i<mat.size(); i++){
+            int count = 0;
+            for(int j = 0; j<mat[i].size(); j++){
+                if(mat[i][j] == 1)
+                count++;
             }
-            if(mini < cnt){
-                mini = cnt;
-                idx = i;
+            if(count > ans[1]){
+                ans[1] = count;
+                ans[0] = i;
             }
         }
-        return {idx, mini};
+        return ans;
     }
 };
