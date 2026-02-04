@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/divya-36736/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/divya-36736/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/divya-36736/dsa/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/divya-36736/dsa/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/divya-36736/dsa/tree/master/0812-rotate-string) |
 | [0848-shifting-letters](https://github.com/divya-36736/dsa/tree/master/0848-shifting-letters) |
 | [0868-push-dominoes](https://github.com/divya-36736/dsa/tree/master/0868-push-dominoes) |
@@ -1316,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/divya-36736/dsa/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/divya-36736/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/divya-36736/dsa/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/divya-36736/dsa/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/divya-36736/dsa/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
