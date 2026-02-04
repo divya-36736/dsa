@@ -4,11 +4,17 @@ public:
         int n = s.size();
         int m = t.size();
         if(n != m) return false;
-        sort(s.begin(), s.end());
-        sort(t.begin(), t.end());
-
+        vector<int>freq(26, 0);
         for(int i = 0; i<n; i++){
-            if(s[i] != t[i]) return false;
+            int a = s[i] - 'a';
+            freq[a]++;
+        }
+        for(int i = 0; i<n; i++){
+            int b = t[i] - 'a';
+            freq[b]--;
+        }
+        for(int i = 0; i<26; i++){
+            if(freq[i] != 0) return false;
         }
         return true;
     }
