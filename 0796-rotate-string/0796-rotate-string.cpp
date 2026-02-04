@@ -1,14 +1,20 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-        int n = s.size();
-        int m = goal.size();
-        if(n != m) return false;
-        
-        for(int i = 0; i<n; i++){
-            string rotated = s.substr(i) + s.substr(0, i);
-            if(rotated == goal) return true;
+        int s1 = s.size();
+        if (s1 != goal.size()) return false;
+
+        for (int shift = 0; shift < s1; shift++) {
+            bool match = true;
+            for (int j = 0; j < s1; j++) {
+                int rot = (shift + j) % s1;
+                if (s[rot] != goal[j]) {
+                    match = false;
+                    break; // stop checking this rotation
+                }
+            }
+            if (match) return true; // found a matching rotation
         }
-        return false;
+        return false; // no rotation matched
     }
 };
