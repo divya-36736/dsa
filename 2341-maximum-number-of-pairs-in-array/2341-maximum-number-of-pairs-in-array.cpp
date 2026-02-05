@@ -7,16 +7,11 @@ public:
             mp[num]++;
         }
         int pair = 0;
-        
         int ans = 0;
         for (auto it : mp) {
-            if(it.second == 1) ans += 1;
-            int cnt = it.second % 2;
-            if (cnt != 0 && it.second/2 > 0) {
-                pair += (it.second/2);
-                ans += 1;
-            }else{
-                pair += (it.second / 2);
+            if(it.second > 0){
+                pair += it.second/2;
+                ans += it.second%2;
             }
         }
         return {pair, ans};
