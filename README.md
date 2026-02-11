@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divya-36736/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/divya-36736/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0868-push-dominoes](https://github.com/divya-36736/dsa/tree/master/0868-push-dominoes) |
+| [0876-middle-of-the-linked-list](https://github.com/divya-36736/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/divya-36736/dsa/tree/master/0908-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
 | [1009-pancake-sorting](https://github.com/divya-36736/dsa/tree/master/1009-pancake-sorting) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/divya-36736/dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/divya-36736/dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/divya-36736/dsa/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/divya-36736/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/divya-36736/dsa/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/divya-36736/dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/divya-36736/dsa/tree/master/2487-remove-nodes-from-linked-list) |
