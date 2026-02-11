@@ -10,40 +10,32 @@
  */
 class Solution {
 public:
+    ListNode* reverse(ListNode* slow){
+        if(slow == NULL || slow->next == NULL) return slow;
+        ListNode* temp = slow->next;
+        ListNode* prev = NULL;
+        while(slow){
+            temp = slow->next;
+            slow->next = prev;
+            prev = slow;
+            slow = temp;
+        }
+        return prev;
+    }
     int pairSum(ListNode* head) {
-        // if(head == NULL) return 0;
-        // int maxi = 0;
-        // ListNode*slow = head;
-        // ListNode* fast = head;
-        // fast = head->next->next;
-        // while(fast != NULL && fast->next!=NULL){
-        //     slow = slow->next;
-        //     fast = fast->next->next;
-        // } 
-        // int sum = slow->val + fast->val;
-        // maxi = max(maxi, sum);
-        // //ListNode*del1 = slow;
-        // slow->next = slow->next->next;
-        // //ListNode*del2 = 
-        // fast->next = fast->next->next;
-        // return maxi;
-
-        //convert it in array
-        vector<int>arr;
-        ListNode*temp = head;
-        while(temp != NULL){
-            arr.push_back(temp->val);
-            temp = temp->next;
+        ListNode*slow = head;
+        ListNode*fast = head;
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        int l = 0;
-        int r = arr.size()-1;
-        int maxi = 0;
-        while(l<r){
-            int sum = arr[l]+arr[r];
-            maxi = max(maxi, sum);
-            l++;
-            r--;
+        slow = reverse(slow);
+        int ans = 0;
+        while(slow){
+            ans = max(ans, head->val+slow->val);
+            slow = slow->next;
+            head = head->next;
         }
-        return maxi;
+        return ans;
     }
 };
