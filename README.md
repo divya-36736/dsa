@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/divya-36736/dsa/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2549-count-distinct-numbers-on-board](https://github.com/divya-36736/dsa/tree/master/2549-count-distinct-numbers-on-board) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/divya-36736/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/divya-36736/dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/divya-36736/dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/divya-36736/dsa/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/divya-36736/dsa/tree/master/0258-add-digits) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/divya-36736/dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
@@ -954,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/divya-36736/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/divya-36736/dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/divya-36736/dsa/tree/master/2487-remove-nodes-from-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/divya-36736/dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divya-36736/dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
