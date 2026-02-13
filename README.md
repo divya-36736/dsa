@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/divya-36736/dsa/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/divya-36736/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/divya-36736/dsa/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/divya-36736/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/divya-36736/dsa/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/divya-36736/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/divya-36736/dsa/tree/master/0312-burst-balloons) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/divya-36736/dsa/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divya-36736/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/divya-36736/dsa/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/divya-36736/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divya-36736/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/divya-36736/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/divya-36736/dsa/tree/master/0733-flood-fill) |
@@ -1167,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/divya-36736/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divya-36736/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/divya-36736/dsa/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/divya-36736/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/divya-36736/dsa/tree/master/0307-range-sum-query-mutable) |
 | [0937-online-stock-span](https://github.com/divya-36736/dsa/tree/master/0937-online-stock-span) |
 | [3827-implement-router](https://github.com/divya-36736/dsa/tree/master/3827-implement-router) |
@@ -1232,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/divya-36736/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/divya-36736/dsa/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/divya-36736/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/divya-36736/dsa/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/divya-36736/dsa/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/divya-36736/dsa/tree/master/0848-shifting-letters) |
