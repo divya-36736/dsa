@@ -1,27 +1,21 @@
 class Solution {
 public:
     bool checkZeroOnes(string s) {
-        int n = s.size();
-        int z = 0;
-        int o = 0;
-        int maxio = 0;
-        int maxiz = 0;
-        int i;
-        for(i = 0; i<n; ){
-            while(s[i] == '1'){
-            o++;
-            i++;
-            maxio = max(maxio, o);
-            z = 0;
+        int max1 = 0, max0 = 0;
+        int one = 0, zero = 0;
+
+        for (char ch : s) {
+            if (ch == '1') {
+                one++;
+                zero = 0;
+                max1 = max(max1, one);
+            } else {
+                zero++;
+                one = 0;
+                max0 = max(max0, zero);
+            }
         }
-        while(s[i] == '0'){
-            z++;
-            i++;
-            maxiz = max(maxiz, z);
-            o = 0;
-        }
-        }
-        
-        return maxio>maxiz;
+
+        return max1 > max0;
     }
 };
