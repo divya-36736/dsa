@@ -6,15 +6,13 @@ public:
         int ans = -1;
         for(int i = 0; i<c; i++){
             if(capacity[i] >= itemSize){
-                mini = min(mini, capacity[i]);
+                if(capacity[i] < mini){
+                    mini = min(mini, capacity[i]);
+                    ans = i;
+                }
             }
         }
-        for(int i = 0; i<c; i++){
-            if(mini == capacity[i]){
-                ans = i;
-                break;
-            }
-        }
+        if(ans == c)return -1;
         return ans;
     }
 };
