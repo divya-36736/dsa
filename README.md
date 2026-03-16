@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/divya-36736/dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/divya-36736/dsa/tree/master/2048-build-array-from-permutation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/divya-36736/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2104-sum-of-subarray-ranges](https://github.com/divya-36736/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divya-36736/dsa/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divya-36736/dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/divya-36736/dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -1039,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/divya-36736/dsa/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divya-36736/dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/divya-36736/dsa/tree/master/2000-reverse-prefix-of-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/divya-36736/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/divya-36736/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/divya-36736/dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/divya-36736/dsa/tree/master/2487-remove-nodes-from-linked-list) |
@@ -1209,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/divya-36736/dsa/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/divya-36736/dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/divya-36736/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/divya-36736/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2227-sum-of-subarray-ranges](https://github.com/divya-36736/dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/divya-36736/dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Data Stream
