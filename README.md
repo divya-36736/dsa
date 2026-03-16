@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/divya-36736/dsa/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/divya-36736/dsa/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/divya-36736/dsa/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/divya-36736/dsa/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/divya-36736/dsa/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/divya-36736/dsa/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divya-36736/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/divya-36736/dsa/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/divya-36736/dsa/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/divya-36736/dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/divya-36736/dsa/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/divya-36736/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divya-36736/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/divya-36736/dsa/tree/master/0647-palindromic-substrings) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/divya-36736/dsa/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/divya-36736/dsa/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/divya-36736/dsa/tree/master/0507-perfect-number) |
+| [0556-next-greater-element-iii](https://github.com/divya-36736/dsa/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divya-36736/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/divya-36736/dsa/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/divya-36736/dsa/tree/master/0830-largest-triangle-area) |
