@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/divya-36736/dsa/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/divya-36736/dsa/tree/master/3798-largest-even-number) |
+| [3856-trim-trailing-vowels](https://github.com/divya-36736/dsa/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/divya-36736/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
