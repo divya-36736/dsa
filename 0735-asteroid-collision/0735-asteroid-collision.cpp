@@ -1,35 +1,38 @@
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& arr) {
+    vector<int> asteroidCollision(vector<int>& asteroids) {
+        
+        int n = asteroids.size();
         stack<int> st;
-        for (int i = 0; i < arr.size(); i++) {
-            if (arr[i] > 0 || st.empty() || st.top() < 0) {
-                // Push positive asteroids or negative asteroids if stack is empty or top is negative
-                st.push(arr[i]);
-            } else {
-                // Current asteroid is negative, handle collisions
-                while (!st.empty() && st.top() > 0 && st.top() < abs(arr[i])) {
-                    // Pop smaller positive asteroids
+
+        for(int i = 0; i < n; i++) {
+
+            if(asteroids[i] > 0) {
+                st.push(asteroids[i]);
+            }
+            else {
+                // collision
+                while(!st.empty() && st.top() > 0 && 
+                      st.top() < abs(asteroids[i])) {
                     st.pop();
                 }
-                if (!st.empty() && st.top() == abs(arr[i])) {
-                    // Equal size asteroids collide and both are destroyed
+
+                if(!st.empty() && st.top() == abs(asteroids[i])) {
                     st.pop();
-                } else if (st.empty() || st.top() < 0) {
-                    // No positive asteroid or only negative asteroids remain, push current
-                    st.push(arr[i]);
                 }
-                // If st.top() > abs(arr[i]), negative asteroid is destroyed, do nothing
+                else if(st.empty() || st.top() < 0) {
+                    st.push(asteroids[i]);
+                }
             }
         }
-        
-        // Transfer stack to result vector in correct order
-        vector<int> ans(st.size());
-        int i = st.size() - 1;
-        while (!st.empty()) {
-            ans[i--] = st.top();
+
+        // convert stack to vector
+        vector<int> result(st.size());
+        for(int i = st.size()-1; i >= 0; i--) {
+            result[i] = st.top();
             st.pop();
         }
-        return ans;
+
+        return result;
     }
 };
