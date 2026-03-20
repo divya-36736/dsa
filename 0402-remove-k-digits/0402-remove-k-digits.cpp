@@ -2,40 +2,34 @@ class Solution {
 public:
     string removeKdigits(string num, int k) {
         int n = num.size();
-        stack<char> st;
-
-        for (int i = 0; i < n; i++) {
-            while (!st.empty() && k > 0 && st.top() > num[i]) {
-                st.pop();
+        stack<char>st;
+        
+        for(int i = 0; i<n; i++){
+            while(k>0 && !st.empty() && st.top() > num[i]){
                 k--;
+                st.pop();
             }
             st.push(num[i]);
         }
-
-        // remove extra digits if k still > 0
-        while (k > 0 && !st.empty()) {
+        //edge cases
+        //stil k
+        while(!st.empty() && k>0) {
             st.pop();
             k--;
         }
 
-        // build result string from stack
+        if(st.empty()) return "0";
+
         string res = "";
-        while (!st.empty()) {
-            res.push_back(st.top());
+        while(!st.empty()){
+            res += st.top();
             st.pop();
         }
-
-        // reverse (since stack gives reversed order)
-        reverse(res.begin(), res.end());
-
-        // remove leading zeros
-        int idx = 0;
-        while (idx < res.size() && res[idx] == '0') {
-            idx++;
+        //trim front zeros
+        while(res.size() != 0 && res.back() == '0'){
+            res.pop_back();
         }
-
-        res = res.substr(idx);
-
+        reverse(res.begin(), res.end());
         return res.empty() ? "0" : res;
     }
 };
