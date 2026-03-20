@@ -1,35 +1,20 @@
 class Solution {
 public:
     int countCollisions(string directions) {
+        //another method
+        //front L and last R never collides then we can trim it
+        //remaining number of R and L are collides and that is answwer
         int n = directions.size();
-        stack<char> st;
-        int collisions = 0;
-        for (char c : directions) {
-            if (c == 'L') {
-                if (!st.empty() && st.top() == 'R') {
-                    collisions += 2;
-                    st.pop();
-                    // more R's behind will hit this S then +1
-                    while (!st.empty() && st.top() == 'R') {
-                        collisions += 1;
-                        st.pop();
-                    }
-                    st.push('S');
-                } else if (!st.empty() && st.top() == 'S') {
-                    collisions += 1;
-                    st.push('S');
-                }
-            } else if (c == 'R') {
-                st.push('R');
-            } else {
-                //'S
-                while(!st.empty() && st.top() == 'R'){
-                    collisions += 1;
-                    st.pop();
-                }
-                st.push('S');
+        int i = 0;
+        while(i<n && directions[i] == 'L') i++;
+        int j = n-1;
+        while(j>=0 && directions[j] == 'R') j--;
+        int cnt = 0;
+        for(int k = i; k<=j; k++){
+            if(directions[k] == 'L' || directions[k] == 'R'){
+                cnt++;
             }
         }
-        return collisions;
+        return cnt;
     }
 };
