@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/divya-36736/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2032-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/divya-36736/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/divya-36736/dsa/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divya-36736/dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2381-shifting-letters-ii](https://github.com/divya-36736/dsa/tree/master/2381-shifting-letters-ii) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/divya-36736/dsa/tree/master/1642-water-bottles) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divya-36736/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/divya-36736/dsa/tree/master/2048-build-array-from-permutation) |
+| [2211-count-collisions-on-a-road](https://github.com/divya-36736/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divya-36736/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divya-36736/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya-36736/dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -1064,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/divya-36736/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/divya-36736/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/divya-36736/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2211-count-collisions-on-a-road](https://github.com/divya-36736/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/divya-36736/dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/divya-36736/dsa/tree/master/2487-remove-nodes-from-linked-list) |
 | [3412-find-mirror-score-of-a-string](https://github.com/divya-36736/dsa/tree/master/3412-find-mirror-score-of-a-string) |
