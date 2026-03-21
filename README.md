@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/divya-36736/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2032-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/divya-36736/dsa/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/divya-36736/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/divya-36736/dsa/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divya-36736/dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/divya-36736/dsa/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/divya-36736/dsa/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/divya-36736/dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divya-36736/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/divya-36736/dsa/tree/master/2215-find-the-difference-of-two-arrays) |
