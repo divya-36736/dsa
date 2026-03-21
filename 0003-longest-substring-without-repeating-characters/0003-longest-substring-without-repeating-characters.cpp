@@ -1,63 +1,19 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        // int n = s.size();
-        // int maxi = INT_MIN;
-        // if(n == 0) return 0;
-        // for(int i = 0; i<n; i++){
-        //     unordered_set<int>set;
-        //     for(int j = i; j<n; j++){
-        //         if (set.find(s[j]) != set.end())
-        //         {
-        //             maxi = max(maxi, j - i);
-        //             break;
-        //         }
-        //     set.insert(s[j]);
-        //     maxi = max(maxi, j - i + 1);
-        //     }
-        // }
-        // return maxi;
+        int n = s.size();
+        int maxlen = 0;
+        for(int i = 0; i<n; i++){
+            vector<int>hash(256, 0);
+            for(int j = i; j<n; j++){
+                if(hash[s[j]] == 1) break;
 
-        //optimal 1;
-        // int n = s.size();
-        // int maxi = 0; // Initialize to 0
-        // unordered_set<char> set; // Use char
-        // int l = 0;
-        
-        // if (n == 0) return 0; // Handle empty string
-        
-        // for (int r = 0; r < n; r++) {
-        //     while (set.find(s[r]) != set.end()) { // Fixed condition
-        //         set.erase(s[l]);
-        //         l++;
-        //     }
-        //     set.insert(s[r]);
-        //     maxi = max(maxi, r - l + 1);
-        // }
-        
-        // return maxi;
-
-
-     
-    //by sliding window
-    int n = s.size();
-    int f = 0;
-    int sec = 0;
-    int len = 0;
-    vector<bool>count(256, 0); //startying me sbko false
-
-    while(sec<n){
-        //repeating character nhi aa jata tb tk
-        while(count[s[sec]]){
-            count[s[f]] = 0;
-            f++;
+                hash[s[j]] = 1;
+                //lenght cal
+                int len = j-i+1;
+                maxlen = max(maxlen, len);
+            }
         }
-        count[s[sec]] = 1;
-        len = max(len, sec-f+1);
-        sec++;
-
-    }
-    return len;
-
+        return maxlen;
     }
 };
