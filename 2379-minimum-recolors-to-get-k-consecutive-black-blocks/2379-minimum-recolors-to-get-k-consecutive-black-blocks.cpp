@@ -3,12 +3,21 @@ public:
     int minimumRecolors(string blocks, int k) {
         int n = blocks.size();
         int minop = INT_MAX;
-        for(int i = 0; i<=n-k; i++){
-            int white = 0;
-            for(int j = i; j<i+k; j++){
-                if(blocks[j] == 'W') white++;
+        int l = 0;
+        int white = 0;
+
+        for(int r = 0; r < n; r++){
+            if(blocks[r] == 'W') white++;
+
+            // shrink if window > k
+            if(r - l + 1 > k){
+                if(blocks[l] == 'W') white--;
+                l++;
             }
-            minop = min(minop, white);
+            
+            if(r - l + 1 == k){
+                minop = min(minop, white);
+            }
         }
         return minop;
     }
