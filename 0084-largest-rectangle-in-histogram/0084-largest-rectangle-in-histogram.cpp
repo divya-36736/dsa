@@ -1,33 +1,22 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
+        //whenever height decreases then we cal area by using prevois taller
         int n = heights.size();
-        vector<int>nse(n);
-        vector<int>pse(n);
         stack<int>st;
-        //pse 
-        for(int i =0; i<n; i++){
-            while(!st.empty() && heights[st.top()] > heights[i]){
+        int maxA = 0;
+        for(int i = 0; i<=n; i++){
+            while(!st.empty() && (i==n || heights[st.top()] >= heights[i])){
+                int height = heights[st.top()];
                 st.pop();
-            }
-            pse[i] = st.empty()? -1 : st.top();
 
+                int width = st.empty() ? i : i-st.top()-1;
+                
+                maxA = max(maxA, height*width);
+                
+            }
             st.push(i);
         }
-        while(!st.empty()) st.pop();
-        //nse
-        for(int i = n-1; i>=0; i--){
-            while(!st.empty() && heights[st.top()] >= heights[i]){
-                st.pop();
-            }
-            nse[i] = st.empty()? n: st.top();
-            st.push(i);
-        }
-
-        int maxArea = 0;
-        for(int i = 0; i<n; i++){
-            maxArea = max(maxArea, heights[i]*(nse[i]-pse[i]-1));
-        }
-        return maxArea;
+        return maxA;
     }
 };
