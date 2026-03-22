@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/divya-36736/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/divya-36736/dsa/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divya-36736/dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divya-36736/dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/divya-36736/dsa/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/divya-36736/dsa/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/divya-36736/dsa/tree/master/2887-sort-vowels-in-a-string) |
@@ -1297,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/divya-36736/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divya-36736/dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/divya-36736/dsa/tree/master/2211-k-radius-subarray-averages) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divya-36736/dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3634-minimum-removals-to-balance-array](https://github.com/divya-36736/dsa/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
