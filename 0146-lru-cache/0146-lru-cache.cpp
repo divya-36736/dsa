@@ -1,80 +1,76 @@
 class LRUCache {
+public:
+    //dubly linked list node class
     class Node{
         public:
-        //variables 
-        int key, val;
-        Node* prev;
-        Node* next;
+             int key;
+             int val;
+             Node* next;
+             Node* prev;
 
-        //constructer
-        Node(int k, int v){
-            key = k;
-            val = v;
-            next = prev = NULL;
-        }
+             //constructor
+             Node(int _key, int _val){
+                key  = _key;
+                val = _val;
+             }
     };
-    Node* head = new Node(-1, -1); //dll dummy head ans tail
+
+    //head ans tail dummy nodes
+    Node* head = new Node(-1, -1);
     Node* tail = new Node(-1, -1);
 
-    
-public:
+    int cap;
     unordered_map<int, Node*>m;
-    int limit;
-    //add fun
-    void addNode(Node* newNode){
-        Node* oldNext = head->next; //connection save
-        head->next = newNode;
-        oldNext->prev = newNode;
 
-        newNode->next = oldNext;
-        newNode->prev = head;
-    }
-    void delNode(Node* oldNode){
-        Node* oldprev = oldNode->prev;
-        Node* oldnext = oldNode->next;
-
-        oldprev->next = oldnext;
-        oldnext ->prev = oldprev;
-    }
     LRUCache(int capacity) {
-        limit = capacity;
+        cap = capacity;
         head->next = tail;
         tail->prev = head;
     }
-    
+    //fuction to add a node right after head
+    void addNode(Node* newNode){
+        Node* temp = head->next;
+        newNode->next = temp;
+        newNode->prev = head;
+        head->next = newNode;
+        temp->prev = newNode;
+    }
+    //function to remove a given node from list
+    void deleteNode(Node* delNode){
+        Node* delprev = delNode->prev;
+        Node* delNext = delNode->next;
+        delprev->next = delNext;
+        delNext->prev = delprev;
+    }
     int get(int key) {
-        if(m.find(key) == m.end()){
-            return -1; //not find then return -1
+        if(m.find(key) != m.end()){
+            Node* resNode = m[key];
+            int res = resNode->val;
+            //remove old mapping
+            m.erase(key);
+            deleteNode(resNode);
+            addNode(resNode);
+            m[key] = head->next;
+            return res;
         }
-        Node* ansNode = m[key];
-        int ans = ansNode->val;
-
-        m.erase(key);
-        delNode(ansNode);
-
-        addNode(ansNode);
-        m[key] = ansNode;
-
-        return ans;
+        return -1;
     }
     
     void put(int key, int value) {
-        //if already exist then 1st we dlt them
+        //if already exists
         if(m.find(key) != m.end()){
-            Node* oldNode = m[key];//del node call
-            delNode(oldNode);//delnode
-            m.erase(key);//ab map sebhi delt kr denge
+            Node* existingNode = m[key];
+            m.erase(key);
+            deleteNode(existingNode);
         }
-        //if we reach the capacity and now we want tot insert new nod
-        //then 1st we dlt tthe last recent node
-        if(m.size() == limit){
-            m.erase(tail->prev->key); //tail ke prev ko
-            delNode(tail->prev);
+        //if capacity reached
+        if(m.size() == cap){
+            m.erase(tail->prev->key);
+            deleteNode(tail->prev);
         }
-        //now we insert the new key and val
-        Node* newNode = new Node(key, value); //new node banaege
-        addNode(newNode);
-        m[key] = newNode;
+        //insert new node at front
+        addNode(new Node(key, value));
+        m[key] = head->next;
     }
 };
 
