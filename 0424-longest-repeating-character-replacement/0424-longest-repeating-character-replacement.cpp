@@ -2,29 +2,25 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
         int n = s.size();
-        int ans = 0;
-        for(char c = 'A'; c<='z'; c++){
-            int i = 0; 
-            int j = 0;
-            int replace = 0;
-            while(j<n){
-                if(s[j] == c){
-                    j++;
+        int l = 0;
+        int r = 0;
+        int maxlen = 0;
+        int maxfreq = 0;
+        unordered_map<int, int>m;
+        while(r<n){
+            m[s[r]]++;
+            maxfreq = max(maxfreq, m[s[r]]);
+            
+            if(r-l+1 - maxfreq > k){
+                m[s[l]]--;
+                if(m[s[l]] == 0){
+                    m.erase(s[l]);
                 }
-                else if(replace < k){
-                    replace++;
-                    j++;
-                }
-                else if(s[i] == c){
-                    i++;
-                }
-                else{
-                    i++; 
-                    replace--;
-                }
-                ans = max(ans, j-i);
+                l++;
             }
+            maxlen = max(maxlen, r-l+1);
+            r++;
         }
-        return ans;
+        return maxlen;
     }
 };
