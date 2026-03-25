@@ -812,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/divya-36736/dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/divya-36736/dsa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/divya-36736/dsa/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/divya-36736/dsa/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/divya-36736/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/divya-36736/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
