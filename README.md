@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/divya-36736/dsa/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-transformed-array](https://github.com/divya-36736/dsa/tree/master/3379-transformed-array) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/divya-36736/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/divya-36736/dsa/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/divya-36736/dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/divya-36736/dsa/tree/master/3446-sort-matrix-by-diagonals) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/divya-36736/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/divya-36736/dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/divya-36736/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3412-find-mirror-score-of-a-string](https://github.com/divya-36736/dsa/tree/master/3412-find-mirror-score-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divya-36736/dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/divya-36736/dsa/tree/master/3583-count-special-triplets) |
@@ -1369,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/divya-36736/dsa/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/divya-36736/dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/divya-36736/dsa/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/divya-36736/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/divya-36736/dsa/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/divya-36736/dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/divya-36736/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
