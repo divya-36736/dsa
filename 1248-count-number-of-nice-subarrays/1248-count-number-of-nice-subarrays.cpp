@@ -1,18 +1,28 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
+    int atmost(vector<int>&nums, int k){
         int n = nums.size();
-        unordered_map<int, int>m;
-        m[0] = 1;
-        int oddcount = 0;
-        int res = 0;
-        for(int i = 0; i<n; i++){
-            if(nums[i] % 2 == 1) oddcount++;
-            if(m.find(oddcount-k) != m.end()){
-                res += m[oddcount - k];
+        int l = 0;
+        int r = 0;
+        int sum = 0;
+        int cnt = 0;
+        while(r<n){
+            sum += (nums[r]%2);
+            while(sum > k){
+                sum -= (nums[l]%2);
+                l++;
             }
-            m[oddcount]++;
+            cnt += (r-l+1);
+            r++;
         }
-        return res;
+        return cnt;
+    }
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        //this question is also consider the same as binarysubarray 
+        //bcz we need the odd numbers theb we can put the odd with 1 and
+        //even with the 0 and we require the k numbers of odd numbers then we 
+        //can say same as gaol is k
+        int n = nums.size();
+        return atmost(nums, k)-atmost(nums, k-1);
     }
 };
