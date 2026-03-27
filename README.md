@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/divya-36736/dsa/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/divya-36736/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2227-sum-of-subarray-ranges](https://github.com/divya-36736/dsa/tree/master/2227-sum-of-subarray-ranges) |
+| [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/divya-36736/dsa/tree/master/2270-number-of-ways-to-split-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divya-36736/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divya-36736/dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divya-36736/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/divya-36736/dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divya-36736/dsa/tree/master/2215-finding-3-digit-even-numbers) |
+| [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
 | [2951-find-the-peaks](https://github.com/divya-36736/dsa/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/divya-36736/dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/divya-36736/dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divya-36736/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/divya-36736/dsa/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divya-36736/dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/divya-36736/dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya-36736/dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -1219,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/divya-36736/dsa/tree/master/0139-word-break) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/divya-36736/dsa/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
@@ -1493,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/divya-36736/dsa/tree/master/0572-subtree-of-another-tree) |
+| [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1665,4 +1670,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/divya-36736/dsa/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/divya-36736/dsa/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/divya-36736/dsa/tree/master/1211-queries-quality-and-percentage) |
+## Rolling Hash
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
