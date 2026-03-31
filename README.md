@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divya-36736/dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/divya-36736/dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya-36736/dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2549-count-distinct-numbers-on-board](https://github.com/divya-36736/dsa/tree/master/2549-count-distinct-numbers-on-board) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divya-36736/dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/divya-36736/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1175,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/divya-36736/dsa/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divya-36736/dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
 ## Doubly-Linked List
 |  |
@@ -1448,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/divya-36736/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -1493,6 +1496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/divya-36736/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -1535,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/divya-36736/dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divya-36736/dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
 ## String Matching
