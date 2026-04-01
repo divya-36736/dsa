@@ -816,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2549-count-distinct-numbers-on-board](https://github.com/divya-36736/dsa/tree/master/2549-count-distinct-numbers-on-board) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divya-36736/dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/divya-36736/dsa/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/divya-36736/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/divya-36736/dsa/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -1183,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1460,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1509,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1556,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
+| [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 ## String Matching
 |  |
 | ------- |
