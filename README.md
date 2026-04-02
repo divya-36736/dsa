@@ -930,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/divya-36736/dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/divya-36736/dsa/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3446-sort-matrix-by-diagonals](https://github.com/divya-36736/dsa/tree/master/3446-sort-matrix-by-diagonals) |
 | [3606-coupon-code-validator](https://github.com/divya-36736/dsa/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/divya-36736/dsa/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1185,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1464,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/divya-36736/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1515,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/divya-36736/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
