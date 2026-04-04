@@ -20,7 +20,7 @@ public:
             if(ans.empty() || s < ans){
                 ans = s;
             }
-            //reverse(s.begin(), s.end());
+            reverse(s.begin(), s.end());
         }
         dfs(root->left, s);
         dfs(root->right, s);
