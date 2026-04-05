@@ -792,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/divya-36736/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/divya-36736/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divya-36736/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/divya-36736/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/divya-36736/dsa/tree/master/1048-longest-string-chain) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0924-fair-candy-swap](https://github.com/divya-36736/dsa/tree/master/0924-fair-candy-swap) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1009-pancake-sorting](https://github.com/divya-36736/dsa/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/divya-36736/dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/1019-squares-of-a-sorted-array) |
@@ -1188,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/divya-36736/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divya-36736/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/divya-36736/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1479,6 +1482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/divya-36736/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/divya-36736/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -1539,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/divya-36736/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/divya-36736/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -1587,6 +1592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/divya-36736/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0993-cousins-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
