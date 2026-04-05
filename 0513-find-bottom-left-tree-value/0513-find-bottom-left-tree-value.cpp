@@ -9,22 +9,26 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+
 class Solution {
 public:
-    int ans = 0;
-    int maxlen = -1;
-    void dfs(TreeNode*root, int depth){
-        if(!root) return;
-        if(depth > maxlen){
-            maxlen = depth;
-            ans = root->val;
-        }
-        //1st traverse the left
-        dfs(root->left, depth+1);
-        dfs(root->right, depth+1);
-    }
+    
     int findBottomLeftValue(TreeNode* root) {
-        dfs(root, 0);
+        queue<TreeNode*>q;
+        q.push(root);
+        int ans = root->val;
+        while(!q.empty()){
+            int size = q.size();
+            for(int i = 0; i<size; i++){
+                TreeNode* node = q.front();
+                q.pop();
+                if(i == 0) ans = node->val;
+
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
+            }
+        }
         return ans;
     }
 };
