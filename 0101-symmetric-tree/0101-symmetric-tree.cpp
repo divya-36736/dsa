@@ -1,36 +1,24 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
+    bool ismirror(TreeNode*p, TreeNode*q){
+        if(!p && !q) return true;
+        if((p && !q) || (!p && q)) return false;
+
+        return (p->val == q->val) && ismirror(p->left, q->right) && ismirror(p->right, q->left);
+    }
     bool isSymmetric(TreeNode* root) {
         if(!root) return true;
-
-        queue<TreeNode*> q;
-        q.push(root);
-
-        while(!q.empty()){
-            int size = q.size();
-            vector<int> level;
-
-            for(int i = 0; i < size; i++){
-                TreeNode* node = q.front();
-                q.pop();
-
-                if(node){
-                    level.push_back(node->val);
-                    q.push(node->left);
-                    q.push(node->right);
-                } else {
-                    level.push_back(INT_MIN); // 🔥 FIX
-                }
-            }
-
-            int st = 0, end = level.size() - 1;
-            while(st < end){
-                if(level[st] != level[end]) return false;
-                st++;
-                end--;
-            }
-        }
-
-        return true;
+        return ismirror(root->left, root->right);
     }
 };
