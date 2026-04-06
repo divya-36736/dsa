@@ -1,33 +1,36 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
- * };
- */
 class Solution {
-
 public:
-    bool isymmetricfind(TreeNode* root1, TreeNode* root2) {
-        if (root1 == NULL && root2 == NULL)
-            return true;
-        if (root1 == NULL || root2 == NULL)
-            return false;
-
-        return (root1->val == root2->val) &&
-               isymmetricfind(root1->left, root2->right) &&
-               isymmetricfind(root1->right, root2->left);
-    };
-
     bool isSymmetric(TreeNode* root) {
-        if (root == NULL) {
-            return true;
+        if(!root) return true;
+
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while(!q.empty()){
+            int size = q.size();
+            vector<int> level;
+
+            for(int i = 0; i < size; i++){
+                TreeNode* node = q.front();
+                q.pop();
+
+                if(node){
+                    level.push_back(node->val);
+                    q.push(node->left);
+                    q.push(node->right);
+                } else {
+                    level.push_back(INT_MIN); // 🔥 FIX
+                }
+            }
+
+            int st = 0, end = level.size() - 1;
+            while(st < end){
+                if(level[st] != level[end]) return false;
+                st++;
+                end--;
+            }
         }
-        return isymmetricfind(root->left, root->right);
+
+        return true;
     }
 };
