@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/divya-36736/dsa/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2063-vowels-of-all-substrings](https://github.com/divya-36736/dsa/tree/master/2063-vowels-of-all-substrings) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/divya-36736/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2211-count-collisions-on-a-road](https://github.com/divya-36736/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/divya-36736/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2262-total-appeal-of-a-string](https://github.com/divya-36736/dsa/tree/master/2262-total-appeal-of-a-string) |
@@ -1209,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divya-36736/dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/divya-36736/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/divya-36736/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
@@ -1501,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/divya-36736/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/divya-36736/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/divya-36736/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/divya-36736/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1564,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/divya-36736/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/divya-36736/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/divya-36736/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
