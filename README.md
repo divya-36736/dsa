@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/divya-36736/dsa/tree/master/0840-magic-squares-in-grid) |
 | [0848-shifting-letters](https://github.com/divya-36736/dsa/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divya-36736/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0874-walking-robot-simulation](https://github.com/divya-36736/dsa/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/divya-36736/dsa/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0890-lemonade-change) |
 | [0896-monotonic-array](https://github.com/divya-36736/dsa/tree/master/0896-monotonic-array) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/divya-36736/dsa/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/divya-36736/dsa/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/divya-36736/dsa/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/divya-36736/dsa/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/divya-36736/dsa/tree/master/1094-car-pooling) |
 | [1552-build-an-array-with-stack-operations](https://github.com/divya-36736/dsa/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/divya-36736/dsa/tree/master/1642-water-bottles) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/divya-36736/dsa/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/divya-36736/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/divya-36736/dsa/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/divya-36736/dsa/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/divya-36736/dsa/tree/master/0924-fair-candy-swap) |
