@@ -11,6 +11,21 @@
  */
 class Solution {
 public:
+    TreeNode* LCA(TreeNode* root, int p, int q){
+        if(!root || root->val == p || root->val == q){
+            return root;
+        }
+
+        TreeNode* left = LCA(root->left, p, q);
+        TreeNode* right = LCA(root->right, p, q);
+
+        if(!left){
+            return right;
+        }
+        else if(!right) return left;
+
+        else return root;
+    }
     bool getPath(TreeNode* root, int target, string &path){
         if(!root) return false;
 
@@ -29,24 +44,19 @@ public:
 
 
     string getDirections(TreeNode* root, int startValue, int destValue) {
+        TreeNode* lca = LCA(root, startValue, destValue);
         string pathStart ="";
         string pathDesti ="";
 
-        getPath(root, startValue, pathStart);
-        getPath(root, destValue, pathDesti);
-
-        int i = 0;
-        while(i<pathStart.size() && i<pathDesti.size() && pathStart[i] == pathDesti[i]){
-            i++;
-        }
+        getPath(lca, startValue, pathStart);
+        getPath(lca, destValue, pathDesti);
 
         string res = "";
-        for(int k = i; k<pathStart.size(); k++){
+        for(int i = 0; i<pathStart.size(); i++){
             res += 'U';
         }
 
-        res += pathDesti.substr(i);
-
+        res = res+pathDesti;
         return res;
     }
 };
