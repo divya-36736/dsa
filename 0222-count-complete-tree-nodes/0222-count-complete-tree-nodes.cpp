@@ -11,12 +11,14 @@
  */
 class Solution {
 public:
-    int inorder(TreeNode* root) {
-        if (root == NULL) return 0;
-        return 1 + inorder(root->left) + inorder(root->right);
-    }
-
+    int cnt = 0;
     int countNodes(TreeNode* root) {
-        return inorder(root);
+        if(!root) return 0;
+        
+        if(root->left) cnt++;
+        if(root->right) cnt++;
+        countNodes(root->left);
+        countNodes(root->right);
+        return cnt+1;
     }
 };
