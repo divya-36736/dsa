@@ -11,35 +11,30 @@
  */
 class Solution {
 public:
-    TreeNode* buildTreePostIn(vector<int>& inorder, int is, int ie, vector<int>&postorder, int ps, int pe, map<int,int>&mpp){
-        //base case
-        if(ps>pe || is>ie){
-            return NULL;
-        }
-        //create root
-        TreeNode* root = new TreeNode(postorder[pe]);
-        //find value in inorder traversal
-        int inRoot = mpp[postorder[pe]];
-        int numsLeft = inRoot-is;
-        //recursively build left and right sub tree
-        root->left = buildTreePostIn(inorder, is, inRoot-1, postorder, ps, ps+numsLeft - 1, mpp);
-        root->right = buildTreePostIn(inorder, inRoot + 1, ie, postorder,
-            ps + numsLeft, pe - 1, mpp);
+    TreeNode* build(vector<int>&inorder, int inst, int inEnd, vector<int>&postorder, int postSt, int postEnd, map<int, int>&m){
+        if(inst>inEnd || postSt > postEnd) return NULL;
 
-            return root;
+        TreeNode* root = new TreeNode(postorder[postEnd]);
+
+        int inroot = m[root->val];
+        int numleft = inroot-inst;
+
+        root->left = build(inorder, inst, inroot - 1,
+                           postorder, postSt, postSt + numleft - 1, m);
+
+        root->right = build(inorder, inroot + 1, inEnd,
+                            postorder, postSt + numleft, postEnd - 1, m);
+
+        return root;
     }
-
-
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        if(inorder.size() != postorder.size()){
-            return NULL;
+        map<int, int>m;
+
+        int n = inorder.size();
+        for(int i = 0; i<n; i++){
+            m[inorder[i]] = i;
         }
-        //create the map fro store the index
-        map<int,int>mpp;
-        for(int i = 0; i<inorder.size(); i++){
-            mpp[inorder[i]] = i;
-        }
-        //call the recursively
-        return buildTreePostIn(inorder, 0, inorder.size()-1, postorder, 0, postorder.size()-1, mpp);
+
+        return build(inorder, 0, n-1, postorder,0, n-1, m);
     }
 };
