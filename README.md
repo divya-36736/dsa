@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/divya-36736/dsa/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/divya-36736/dsa/tree/master/3643-flip-square-submatrix-vertically) |
 | [3708-longest-fibonacci-subarray](https://github.com/divya-36736/dsa/tree/master/3708-longest-fibonacci-subarray) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divya-36736/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/divya-36736/dsa/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3827-implement-router](https://github.com/divya-36736/dsa/tree/master/3827-implement-router) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/divya-36736/dsa/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divya-36736/dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/divya-36736/dsa/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/divya-36736/dsa/tree/master/3606-coupon-code-validator) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divya-36736/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3827-implement-router](https://github.com/divya-36736/dsa/tree/master/3827-implement-router) |
 | [3829-design-ride-sharing-system](https://github.com/divya-36736/dsa/tree/master/3829-design-ride-sharing-system) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/divya-36736/dsa/tree/master/3852-smallest-pair-with-different-frequencies) |
