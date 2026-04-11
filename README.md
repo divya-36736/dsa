@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya-36736/dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2381-shifting-letters-ii](https://github.com/divya-36736/dsa/tree/master/2381-shifting-letters-ii) |
 | [2401-longest-nice-subarray](https://github.com/divya-36736/dsa/tree/master/2401-longest-nice-subarray) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/divya-36736/dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divya-36736/dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2536-increment-submatrices-by-one](https://github.com/divya-36736/dsa/tree/master/2536-increment-submatrices-by-one) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/divya-36736/dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/divya-36736/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/divya-36736/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/divya-36736/dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divya-36736/dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divya-36736/dsa/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1228,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/divya-36736/dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/divya-36736/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -1530,6 +1533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/divya-36736/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/divya-36736/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -1598,6 +1602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/divya-36736/dsa/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/divya-36736/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -1689,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/divya-36736/dsa/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/divya-36736/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Counting Sort
 |  |
 | ------- |
