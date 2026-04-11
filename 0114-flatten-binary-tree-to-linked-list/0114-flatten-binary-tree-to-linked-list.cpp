@@ -11,16 +11,24 @@
  */
 class Solution {
 public:
-    TreeNode* NR = NULL; //nextRight or last visited node
+    void preorder(TreeNode* root, vector<TreeNode*>&pre){
+        if(root){
+            pre.push_back(root);
+            preorder(root->left, pre);
+            preorder(root->right, pre);
+        }
+    }
     void flatten(TreeNode* root) {
-        //we do in this preoder reverse traversal
-        if(root == NULL) return ;
-
-        flatten(root->right);//in reveser order 1st we go in right side
-        flatten(root->left); //ans then left side
-
-        root->left = NULL; //left ko NULL assign krdo
-        root->right = NR; //root ke right ko next right krdo
-        NR = root; //next right root now
-    } 
+        if(!root) return;
+        vector<TreeNode*>pre;
+        preorder(root, pre);
+        TreeNode* temp = root;
+        int n = pre.size();
+        temp->left = NULL;
+        for(int i =1; i<n; i++){
+            temp->right = pre[i];
+            temp = temp->right;
+            temp->left = NULL;
+        }
+    }
 };
