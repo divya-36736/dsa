@@ -11,27 +11,15 @@
  */
 class Solution {
 public:
-    int inorder(TreeNode* root, int k){
-        stack<TreeNode*>st;
-        TreeNode* curr = root;
-        int ans = 0;
-        int cnt = 0;
-        while(curr != NULL || !st.empty()){
-            while(curr != NULL){
-                st.push(curr);
-                curr = curr->left;
-            }
-            curr = st.top();
-            st.pop();
-            cnt++;
-            if(cnt == k){
-                ans = curr->val;
-            }
-            curr = curr->right;
-        }
-        return ans;
+    void inorder(TreeNode*root, vector<int>&in){
+        if(!root) return;
+        inorder(root->left, in);
+        in.push_back(root->val);
+        inorder(root->right, in);
     }
     int kthSmallest(TreeNode* root, int k) {
-        return inorder(root, k);
+        vector<int>in;
+        inorder(root, in);
+        return in[k-1];
     }
 };
