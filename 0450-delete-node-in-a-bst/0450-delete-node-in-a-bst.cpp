@@ -11,33 +11,27 @@
  */
 class Solution {
 public:
-
-    TreeNode* getInorderSuccessor(TreeNode* root){
-        while(root != NULL && root->left != NULL){
-            root = root->left;
-        }
-        return root;
-    }
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(root == NULL) return NULL;
-        if(key < root->val){
-            root->left = deleteNode(root->left, key);
-        }
-        else if(key > root->val){
-            root->right = deleteNode(root->right, key);
-        }else{
-            if(root->left == NULL){
-                TreeNode* temp = root->right;
-                delete root;
-                return temp;
-            }else if(root->right == NULL){
-                TreeNode* temp = root->left;
-                delete root;
-                return temp;
-            }else{
-                TreeNode* Is = getInorderSuccessor(root->right);
-                root->val = Is->val;
-                root->right = deleteNode(root->right, Is->val);
+        if(root){
+            if(key < root->val){
+                root->left = deleteNode(root->left, key);
+            }
+            else if(key > root->val){
+                root->right = deleteNode(root->right, key);
+            }
+            else{
+                if(!root->left && !root->right){
+                    return NULL;
+                }
+                else if(!root->left || !root->right){
+                    return root->left? root->left:root->right;
+                }
+                else{ //inorder precedessor
+                    TreeNode* temp = root->left;
+                    while(temp->right) temp = temp->right;
+                    root->val = temp->val;
+                    root->left = deleteNode(root->left, temp->val);
+                }
             }
         }
         return root;
