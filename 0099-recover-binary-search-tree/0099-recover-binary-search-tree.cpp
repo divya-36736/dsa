@@ -6,44 +6,29 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
-private:
-    TreeNode* first;
-    TreeNode* middle;
-    TreeNode* last;
-    TreeNode* prev;
-
-    void inorder(TreeNode* root) {
-        if (!root) return;
-
-        inorder(root->left);
-
-        if (prev && root->val < prev->val) {
-            if (!first) {       // First violation
-                first = prev;
-                middle = root;
-            } else {            // Second violation
-                last = root;
-            }
-        }
-
-        prev = root; // always move prev
-
-        inorder(root->right);
-    }
-
 public:
+    void inorderStore(TreeNode* root, vector<int>&vals){
+        if(!root) return;
+        inorderStore(root->left, vals);
+        vals.push_back(root->val);
+        inorderStore(root->right, vals);
+    }
+    void inorderFix(TreeNode* root, vector<int>&vals, int &i){
+        if(!root) return;
+        inorderFix(root->left, vals, i);
+        root->val = vals[i++];
+        inorderFix(root->right, vals, i);
+    }
     void recoverTree(TreeNode* root) {
-        first = middle = last = nullptr;
-        prev = new TreeNode(INT_MIN);
-
-        inorder(root);
-
-        if (first && last) swap(first->val, last->val);
-        else if (first && middle) swap(first->val, middle->val);
+        vector<int>vals;
+        inorderStore(root, vals);
+        sort(vals.begin(), vals.end());
+        int i = 0;
+        inorderFix(root, vals, i);
     }
 };
