@@ -4,9 +4,10 @@ public:
         int n = nums.size();
         int cnt  = 0;
         for(int it:nums){
-            string s = to_string(it);
-            for(int i = 0; i<s.size(); i++){
-                if(s[i]-'0' == digit) cnt++;
+            while(it){
+                int a = it%10;
+                it /= 10;
+                if(a == digit) cnt++;
             }
         }
         return cnt;
