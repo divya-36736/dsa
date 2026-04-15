@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/divya-36736/dsa/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/divya-36736/dsa/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/divya-36736/dsa/tree/master/3862-find-the-smallest-balanced-index) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/divya-36736/dsa/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Math
 |  |
 | ------- |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/divya-36736/dsa/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/divya-36736/dsa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/divya-36736/dsa/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Number Theory
 |  |
 | ------- |
