@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/divya-36736/dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/divya-36736/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2227-sum-of-subarray-ranges](https://github.com/divya-36736/dsa/tree/master/2227-sum-of-subarray-ranges) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/divya-36736/dsa/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/divya-36736/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/divya-36736/dsa/tree/master/2270-number-of-ways-to-split-array) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/divya-36736/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/divya-36736/dsa/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/divya-36736/dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/divya-36736/dsa/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
 | [2262-total-appeal-of-a-string](https://github.com/divya-36736/dsa/tree/master/2262-total-appeal-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divya-36736/dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/divya-36736/dsa/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/divya-36736/dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/divya-36736/dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/divya-36736/dsa/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/divya-36736/dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divya-36736/dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/divya-36736/dsa/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -1306,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/divya-36736/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/divya-36736/dsa/tree/master/2126-destroying-asteroids) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/divya-36736/dsa/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/divya-36736/dsa/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/divya-36736/dsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya-36736/dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/divya-36736/dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
