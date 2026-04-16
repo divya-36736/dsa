@@ -4,13 +4,16 @@ public:
 
     int countHousePlacements(int n) {
         vector<long long> dp(n+1, 0);
-        dp[0] = 1;
-        dp[1] = 2;
+        long long prev2 = 1;
+        long long prev1 = 2;
+        long long curr;
 
         for(int i = 2; i<=n; i++){
-            dp[i] = (dp[i-1] + dp[i-2])%mod;
+            curr = (prev1+prev2)%mod;
+            prev2 = prev1;
+            prev1 = curr;
         }
 
-        return (dp[n] * dp[n]) % mod;   
+        return (prev1*prev1) % mod;   
     }
 };
