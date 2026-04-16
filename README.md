@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/divya-36736/dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/divya-36736/dsa/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/divya-36736/dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/divya-36736/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/divya-36736/dsa/tree/master/1323-maximum-69-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/divya-36736/dsa/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/divya-36736/dsa/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/divya-36736/dsa/tree/master/1048-longest-string-chain) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/divya-36736/dsa/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1137-n-th-tribonacci-number](https://github.com/divya-36736/dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/divya-36736/dsa/tree/master/1250-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divya-36736/dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1262,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/divya-36736/dsa/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/divya-36736/dsa/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/divya-36736/dsa/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
