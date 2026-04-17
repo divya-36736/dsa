@@ -1080,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-total-appeal-of-a-string](https://github.com/divya-36736/dsa/tree/master/2262-total-appeal-of-a-string) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/divya-36736/dsa/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/divya-36736/dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2466-count-ways-to-build-good-strings](https://github.com/divya-36736/dsa/tree/master/2466-count-ways-to-build-good-strings) |
 | [2742-painting-the-walls](https://github.com/divya-36736/dsa/tree/master/2742-painting-the-walls) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/divya-36736/dsa/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/divya-36736/dsa/tree/master/2957-remove-adjacent-almost-equal-characters) |
