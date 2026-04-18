@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/divya-36736/dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/divya-36736/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/divya-36736/dsa/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/divya-36736/dsa/tree/master/3830-find-closest-person) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/divya-36736/dsa/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Enumeration
