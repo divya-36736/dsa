@@ -597,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/divya-36736/dsa/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/divya-36736/dsa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3827-count-monobit-integers](https://github.com/divya-36736/dsa/tree/master/3827-count-monobit-integers) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/divya-36736/dsa/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Number Theory
 |  |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/divya-36736/dsa/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/divya-36736/dsa/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/divya-36736/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3827-count-monobit-integers](https://github.com/divya-36736/dsa/tree/master/3827-count-monobit-integers) |
 ## Sorting
 |  |
 | ------- |
