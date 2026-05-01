@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/divya-36736/dsa/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/divya-36736/dsa/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divya-36736/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/divya-36736/dsa/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/divya-36736/dsa/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/divya-36736/dsa/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/divya-36736/dsa/tree/master/0413-arithmetic-slices) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/divya-36736/dsa/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/divya-36736/dsa/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/divya-36736/dsa/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/divya-36736/dsa/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/divya-36736/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/divya-36736/dsa/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/divya-36736/dsa/tree/master/0415-add-strings) |
@@ -1067,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/divya-36736/dsa/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/divya-36736/dsa/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/divya-36736/dsa/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/divya-36736/dsa/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/divya-36736/dsa/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/divya-36736/dsa/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/divya-36736/dsa/tree/master/0413-arithmetic-slices) |
