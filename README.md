@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/divya-36736/dsa/tree/master/1901-find-a-peak-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/divya-36736/dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divya-36736/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/divya-36736/dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/divya-36736/dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/divya-36736/dsa/tree/master/2048-build-array-from-permutation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/divya-36736/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/divya-36736/dsa/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/divya-36736/dsa/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/2032-largest-odd-number-in-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/divya-36736/dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/divya-36736/dsa/tree/master/2050-count-good-numbers) |
 | [2063-vowels-of-all-substrings](https://github.com/divya-36736/dsa/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divya-36736/dsa/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/divya-36736/dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/divya-36736/dsa/tree/master/1901-find-a-peak-element-ii) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/divya-36736/dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/divya-36736/dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/divya-36736/dsa/tree/master/2536-increment-submatrices-by-one) |
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
@@ -972,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/divya-36736/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/divya-36736/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/divya-36736/dsa/tree/master/1970-sorting-the-sentence) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/divya-36736/dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divya-36736/dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/divya-36736/dsa/tree/master/2126-destroying-asteroids) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/divya-36736/dsa/tree/master/2195-append-k-integers-with-minimal-sum) |
