@@ -1296,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -1737,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1941,4 +1943,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/divya-36736/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 <!---LeetCode Topics End-->
