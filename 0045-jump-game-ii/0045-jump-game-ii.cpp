@@ -1,19 +1,28 @@
 class Solution {
 public:
+    int minjump(vector<int>&nums, int pos, vector<int>&dp){
+        int n = nums.size();
+        if(pos >= n-1) return 0;
+
+        if(nums[pos] == 0) return INT_MAX;
+
+        int minstep = INT_MAX;
+
+        if(dp[pos] != -1) return dp[pos];
+
+        for(int jump=1; jump<=nums[pos]; jump++){
+            
+            int subres = minjump(nums, pos+jump, dp);
+
+            if(subres != INT_MAX){
+                minstep = min(minstep, 1+subres);
+            }
+        }
+        return dp[pos] = minstep;
+    }
     int jump(vector<int>& nums) {
         int n = nums.size();
-        int jumps = 0;
-        int l = 0, r = 0;
-        // take l , and r at 0 and now a loop chalenge joh l to r tk chalega phir usme hum ek farpoint lenge joh maxize krega r ko 
-        while (r < n - 1) {
-            int farpoint = 0;
-            for (int i = l; i <= r; i++) {
-                farpoint = max(farpoint, i + nums[i]);
-            }
-            l = r + 1;
-            r = farpoint;
-            jumps++;
-        }
-        return jumps;
+        vector<int>dp(n, -1);
+        return minjump(nums, 0, dp);
     }
 };
