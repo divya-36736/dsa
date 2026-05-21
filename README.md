@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/divya-36736/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
 | [0992-subarrays-with-k-different-integers](https://github.com/divya-36736/dsa/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/divya-36736/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/divya-36736/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/divya-36736/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1009-pancake-sorting](https://github.com/divya-36736/dsa/tree/master/1009-pancake-sorting) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divya-36736/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/divya-36736/dsa/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/divya-36736/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/divya-36736/dsa/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/divya-36736/dsa/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1945,6 +1947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/divya-36736/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/divya-36736/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
