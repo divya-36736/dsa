@@ -1,36 +1,57 @@
 class Solution {
 public:
-    void bfs(int st, vector<vector<int>>& isConnected, vector<int>&vis){
-        int n = isConnected.size();
-        
-        queue<int>q;
 
-        vis[st] = 1;
-        q.push(st);
+    void bfs(int node, vector<vector<int>>& adj, vector<int>& visited) {
 
-        while(!q.empty()){
-            int node = q.front();
+        queue<int> q;
+        q.push(node);
+        visited[node] = 1;
+
+        while(!q.empty()) {
+
+            int nodes = q.front();
             q.pop();
-            
-            for(int i = 0; i<n; i++){
-                if(isConnected[node][i] == 1 && !vis[i]){
-                    vis[i] = 1;
-                    q.push(i);
+
+            for(auto &nbr : adj[nodes]) {
+
+                if(!visited[nbr]) {
+
+                    visited[nbr] = 1;
+                    q.push(nbr);
                 }
             }
         }
     }
+
     int findCircleNum(vector<vector<int>>& isConnected) {
+
         int n = isConnected.size();
-        int  cnt = 0;
-        vector<int>vis(n, 0);
-        for(int i = 0; i<n; i++){
-            if(!vis[i]){
-                
-                bfs(i, isConnected, vis);
-                cnt++;
+
+        vector<vector<int>> adj(n);
+
+        for(int i = 0; i < n; i++) {
+
+            for(int j = 0; j < n; j++) {
+
+                if(i != j && isConnected[i][j] == 1) {
+
+                    adj[i].push_back(j);
+                }
             }
         }
+
+        int cnt = 0;
+        vector<int> visited(n, 0);
+
+        for(int i = 0; i < n; i++) {
+
+            if(!visited[i]) {
+
+                cnt++;
+                bfs(i, adj, visited);
+            }
+        }
+
         return cnt;
     }
 };
