@@ -1,23 +1,22 @@
 class Solution {
 public:
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
-        unordered_set<string>set;
-        for(int num: arr1){
+        unordered_set<string>st;
+        for(auto num: arr1){
             string s = to_string(num);
             string prefix = "";
-            for(char c: s){
+            for(char &c:s){
                 prefix += c;
-                set.insert(prefix);
+                st.insert(prefix);
             }
         }
         int maxi = 0;
-        //for arr2
-        for(int num: arr2){
+        for(auto num: arr2){
             string s = to_string(num);
             string prefix = "";
-            for(char c: s){
+            for(char &c: s){
                 prefix += c;
-                if(set.count(prefix)){
+                if(st.count(prefix)){
                     maxi = max(maxi, (int)prefix.length());
                 }
             }
