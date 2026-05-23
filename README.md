@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/divya-36736/dsa/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/divya-36736/dsa/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/divya-36736/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0419-battleships-in-a-board](https://github.com/divya-36736/dsa/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/divya-36736/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divya-36736/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/divya-36736/dsa/tree/master/0455-assign-cookies) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/divya-36736/dsa/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/divya-36736/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divya-36736/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/divya-36736/dsa/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0542-01-matrix](https://github.com/divya-36736/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/divya-36736/dsa/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/divya-36736/dsa/tree/master/0840-magic-squares-in-grid) |
@@ -1263,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/divya-36736/dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divya-36736/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/divya-36736/dsa/tree/master/0365-water-and-jug-problem) |
+| [0419-battleships-in-a-board](https://github.com/divya-36736/dsa/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/divya-36736/dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/divya-36736/dsa/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/divya-36736/dsa/tree/master/0449-serialize-and-deserialize-bst) |
