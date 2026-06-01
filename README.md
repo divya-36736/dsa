@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/divya-36736/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/divya-36736/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/divya-36736/dsa/tree/master/0015-3sum) |
@@ -56,8 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/divya-36736/dsa/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/divya-36736/dsa/tree/master/3794-reverse-string-prefix) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divya-36736/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/divya-36736/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/divya-36736/dsa/tree/master/0006-zigzag-conversion) |
@@ -187,8 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3856-trim-trailing-vowels](https://github.com/divya-36736/dsa/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/divya-36736/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/divya-36736/dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/divya-36736/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/divya-36736/dsa/tree/master/0011-container-with-most-water) |
@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divya-36736/dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/divya-36736/dsa/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/divya-36736/dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/divya-36736/dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divya-36736/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/divya-36736/dsa/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/divya-36736/dsa/tree/master/2211-k-radius-subarray-averages) |
@@ -514,8 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3862-find-the-smallest-balanced-index](https://github.com/divya-36736/dsa/tree/master/3862-find-the-smallest-balanced-index) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/divya-36736/dsa/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/divya-36736/dsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/divya-36736/dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/divya-36736/dsa/tree/master/0009-palindrome-number) |
@@ -607,8 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/divya-36736/dsa/tree/master/3830-find-closest-person) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/divya-36736/dsa/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0204-count-primes](https://github.com/divya-36736/dsa/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/divya-36736/dsa/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/divya-36736/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -623,15 +624,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-count-monobit-integers](https://github.com/divya-36736/dsa/tree/master/3827-count-monobit-integers) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/divya-36736/dsa/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0204-count-primes](https://github.com/divya-36736/dsa/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/divya-36736/dsa/tree/master/0258-add-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/divya-36736/dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divya-36736/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divya-36736/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divya-36736/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -691,8 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/divya-36736/dsa/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3827-implement-router](https://github.com/divya-36736/dsa/tree/master/3827-implement-router) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0036-valid-sudoku](https://github.com/divya-36736/dsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/divya-36736/dsa/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/divya-36736/dsa/tree/master/0048-rotate-image) |
@@ -739,8 +740,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/divya-36736/dsa/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/divya-36736/dsa/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divya-36736/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/divya-36736/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/divya-36736/dsa/tree/master/0053-maximum-subarray) |
@@ -758,8 +759,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/divya-36736/dsa/tree/master/0932-beautiful-array) |
 | [1873-longest-nice-substring](https://github.com/divya-36736/dsa/tree/master/1873-longest-nice-substring) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/divya-36736/dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/divya-36736/dsa/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/divya-36736/dsa/tree/master/0258-add-digits) |
@@ -797,8 +798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divya-36736/dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/divya-36736/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divya-36736/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/divya-36736/dsa/tree/master/0012-integer-to-roman) |
@@ -918,8 +919,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/divya-36736/dsa/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/divya-36736/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0029-divide-two-integers](https://github.com/divya-36736/dsa/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/divya-36736/dsa/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/divya-36736/dsa/tree/master/0078-subsets) |
@@ -955,8 +956,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/divya-36736/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3827-count-monobit-integers](https://github.com/divya-36736/dsa/tree/master/3827-count-monobit-integers) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/divya-36736/dsa/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/divya-36736/dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/divya-36736/dsa/tree/master/0075-sort-colors) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/divya-36736/dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divya-36736/dsa/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/divya-36736/dsa/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/divya-36736/dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/divya-36736/dsa/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/divya-36736/dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/divya-36736/dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -1029,8 +1031,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/divya-36736/dsa/tree/master/3634-minimum-removals-to-balance-array) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/divya-36736/dsa/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/divya-36736/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/divya-36736/dsa/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/divya-36736/dsa/tree/master/0347-top-k-frequent-elements) |
@@ -1058,8 +1060,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/divya-36736/dsa/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/divya-36736/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/divya-36736/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/divya-36736/dsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/divya-36736/dsa/tree/master/0042-trapping-rain-water) |
@@ -1140,8 +1142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/divya-36736/dsa/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/divya-36736/dsa/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/divya-36736/dsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/divya-36736/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/divya-36736/dsa/tree/master/0021-merge-two-sorted-lists) |
@@ -1172,8 +1174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/divya-36736/dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divya-36736/dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/divya-36736/dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/divya-36736/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/divya-36736/dsa/tree/master/0024-swap-nodes-in-pairs) |
@@ -1190,8 +1192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-remove-nodes-from-linked-list](https://github.com/divya-36736/dsa/tree/master/2487-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/divya-36736/dsa/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/divya-36736/dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/divya-36736/dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divya-36736/dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -1236,8 +1238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-remove-nodes-from-linked-list](https://github.com/divya-36736/dsa/tree/master/2487-remove-nodes-from-linked-list) |
 | [3412-find-mirror-score-of-a-string](https://github.com/divya-36736/dsa/tree/master/3412-find-mirror-score-of-a-string) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0079-word-search](https://github.com/divya-36736/dsa/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/divya-36736/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/0098-validate-binary-search-tree) |
@@ -1316,23 +1318,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0146-lru-cache](https://github.com/divya-36736/dsa/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/divya-36736/dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/divya-36736/dsa/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/divya-36736/dsa/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divya-36736/dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/divya-36736/dsa/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/divya-36736/dsa/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/divya-36736/dsa/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/divya-36736/dsa/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/divya-36736/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/divya-36736/dsa/tree/master/0055-jump-game) |
@@ -1371,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/divya-36736/dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/divya-36736/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/divya-36736/dsa/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/divya-36736/dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/divya-36736/dsa/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/divya-36736/dsa/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/divya-36736/dsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -1388,8 +1391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/divya-36736/dsa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/divya-36736/dsa/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/divya-36736/dsa/tree/master/0139-word-break) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/divya-36736/dsa/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -1397,8 +1400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divya-36736/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/divya-36736/dsa/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/divya-36736/dsa/tree/master/0037-sudoku-solver) |
@@ -1421,8 +1424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/divya-36736/dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/divya-36736/dsa/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0146-lru-cache](https://github.com/divya-36736/dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/divya-36736/dsa/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/divya-36736/dsa/tree/master/0173-binary-search-tree-iterator) |
@@ -1441,8 +1444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/divya-36736/dsa/tree/master/3827-implement-router) |
 | [3829-design-ride-sharing-system](https://github.com/divya-36736/dsa/tree/master/3829-design-ride-sharing-system) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/divya-36736/dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/divya-36736/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/divya-36736/dsa/tree/master/0085-maximal-rectangle) |
@@ -1462,14 +1465,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/divya-36736/dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/divya-36736/dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0901-online-stock-span](https://github.com/divya-36736/dsa/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/divya-36736/dsa/tree/master/0937-online-stock-span) |
 | [3829-design-ride-sharing-system](https://github.com/divya-36736/dsa/tree/master/3829-design-ride-sharing-system) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/divya-36736/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divya-36736/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/divya-36736/dsa/tree/master/0239-sliding-window-maximum) |
@@ -1479,8 +1482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/divya-36736/dsa/tree/master/3827-implement-router) |
 | [3829-design-ride-sharing-system](https://github.com/divya-36736/dsa/tree/master/3829-design-ride-sharing-system) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divya-36736/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/divya-36736/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/divya-36736/dsa/tree/master/0219-contains-duplicate-ii) |
@@ -1512,8 +1515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/divya-36736/dsa/tree/master/2401-longest-nice-subarray) |
 | [3634-minimum-removals-to-balance-array](https://github.com/divya-36736/dsa/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/divya-36736/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/divya-36736/dsa/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/divya-36736/dsa/tree/master/0303-range-sum-query-immutable) |
@@ -1553,8 +1556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/divya-36736/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3862-find-the-smallest-balanced-index](https://github.com/divya-36736/dsa/tree/master/3862-find-the-smallest-balanced-index) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divya-36736/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/0099-recover-binary-search-tree) |
@@ -1630,8 +1633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divya-36736/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/0099-recover-binary-search-tree) |
@@ -1702,8 +1705,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/divya-36736/dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/divya-36736/dsa/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/divya-36736/dsa/tree/master/0102-binary-tree-level-order-traversal) |
@@ -1761,8 +1764,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divya-36736/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/divya-36736/dsa/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/divya-36736/dsa/tree/master/0572-subtree-of-another-tree) |
@@ -1770,13 +1773,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/divya-36736/dsa/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/divya-36736/dsa/tree/master/0812-rotate-string) |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/divya-36736/dsa/tree/master/0572-subtree-of-another-tree) |
 | [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -1797,13 +1800,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/divya-36736/dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/divya-36736/dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0274-h-index](https://github.com/divya-36736/dsa/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/divya-36736/dsa/tree/master/0561-array-partition) |
 ## Union Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0130-surrounded-regions](https://github.com/divya-36736/dsa/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/divya-36736/dsa/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/divya-36736/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1811,8 +1814,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/divya-36736/dsa/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
 ## Graph
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/divya-36736/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/divya-36736/dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/divya-36736/dsa/tree/master/0547-number-of-provinces) |
@@ -1825,28 +1828,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/divya-36736/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/divya-36736/dsa/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/divya-36736/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/divya-36736/dsa/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/divya-36736/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/divya-36736/dsa/tree/master/0062-unique-paths) |
 | [2063-vowels-of-all-substrings](https://github.com/divya-36736/dsa/tree/master/2063-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divya-36736/dsa/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/divya-36736/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/divya-36736/dsa/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/divya-36736/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/divya-36736/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/divya-36736/dsa/tree/master/0239-sliding-window-maximum) |
@@ -1868,73 +1871,73 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/divya-36736/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/divya-36736/dsa/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/divya-36736/dsa/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/divya-36736/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/divya-36736/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Shortest Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0744-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/divya-36736/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/divya-36736/dsa/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/divya-36736/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/divya-36736/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0830-largest-triangle-area](https://github.com/divya-36736/dsa/tree/master/0830-largest-triangle-area) |
 | [2101-detonate-the-maximum-bombs](https://github.com/divya-36736/dsa/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Iterator
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0173-binary-search-tree-iterator](https://github.com/divya-36736/dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/divya-36736/dsa/tree/master/0284-peeking-iterator) |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/divya-36736/dsa/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/divya-36736/dsa/tree/master/1025-divisor-game) |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/divya-36736/dsa/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/divya-36736/dsa/tree/master/1025-divisor-game) |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/divya-36736/dsa/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divya-36736/dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3827-implement-router](https://github.com/divya-36736/dsa/tree/master/3827-implement-router) |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0278-first-bad-version](https://github.com/divya-36736/dsa/tree/master/0278-first-bad-version) |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0307-range-sum-query-mutable](https://github.com/divya-36736/dsa/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/divya-36736/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3477-fruits-into-baskets-ii](https://github.com/divya-36736/dsa/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0307-range-sum-query-mutable](https://github.com/divya-36736/dsa/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/divya-36736/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0175-combine-two-tables](https://github.com/divya-36736/dsa/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/divya-36736/dsa/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/divya-36736/dsa/tree/master/0178-rank-scores) |
@@ -1958,12 +1961,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/divya-36736/dsa/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/divya-36736/dsa/tree/master/1211-queries-quality-and-percentage) |
 ## Rolling Hash
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0547-number-of-provinces](https://github.com/divya-36736/dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [0997-find-the-town-judge](https://github.com/divya-36736/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/divya-36736/dsa/tree/main/1791-find-center-of-star-graph/) | Easy |
@@ -1972,8 +1975,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/divya-36736/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0547-number-of-provinces](https://github.com/divya-36736/dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/divya-36736/dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
