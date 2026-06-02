@@ -34,6 +34,7 @@ public:
                 if(indegree[nbr] == 0) q.push(nbr);
             }
         }
+        if(ans.size() != numCourses) return {};
         return ans;
     }
 };
