@@ -1969,6 +1969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/divya-36736/dsa/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/divya-36736/dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/divya-36736/dsa/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/divya-36736/dsa/tree/main/0997-find-the-town-judge/) | Easy |
