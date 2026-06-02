@@ -3,42 +3,21 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         int n = intervals.size();
         sort(intervals.begin(), intervals.end());
-        //in this we need to check all iteration
-        // vector<vector<int>>res;
-        
-        // if(n == 0) return res;
 
-        // vector<int>tempInt = intervals[0]; //1st push
-
-        // for(auto it: intervals){
-        //     if(it[0] <= tempInt[1]){ //
-        //         tempInt[1] = max(it[1], tempInt[1]);
-        //     }else{
-        //         res.push_back(tempInt);
-        //         tempInt = it;
-        //     }
-        // }
-        // res.push_back(tempInt);
-        // return res;
-
-        //2nd
         vector<vector<int>>res;
-        int i = 0;
+        res.push_back(intervals[0]);
 
-        while (i < n) {
-            int start = intervals[i][0];
-            int end = intervals[i][1];
+        for(int i = 1; i<n; i++){
+            vector<int>&last = res.back();
+            vector<int>&curr = intervals[i];
 
-            // ✅ Merge all overlapping intervals
-            while (i + 1 < n && intervals[i + 1][0] <= end) {
-                end = max(end, intervals[i + 1][1]);
-                i++;
+            if(curr[0] <= last[1]){
+                last[1] = max(last[1], curr[1]);
             }
-
-            res.push_back({start, end});
-            i++;
+            else{
+                res.push_back(curr);
+            }
         }
-
         return res;
     }
 };
