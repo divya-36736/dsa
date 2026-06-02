@@ -1,39 +1,39 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        for (auto edge : prerequisites) {
-            int u = edge[1]; // Source (prerequisite course)
-            int v = edge[0]; // Destination (dependent course)
-            adj[u].push_back(v);
+        int n = numCourses;
+        vector<vector<int>>adj(n);
+        for(auto edge: prerequisites){
+            int u = edge[0];
+            int v = edge[1];
+            adj[v].push_back(u);
         }
 
-        vector<int>ind(numCourses, 0);
-        for(int i = 0; i<numCourses; i++){
-            for(auto it: adj[i]){
-                ind[it]++;
+        vector<int>indegree(n, 0);
+        for(int i = 0; i<n; i++){
+            for(auto &it: adj[i]){
+                indegree[it]++;
             }
         }
 
         queue<int>q;
-        for(int i = 0; i<numCourses; i++){
-            if(ind[i] == 0){
-                q.push(i);
-            }
+        for(int i = 0; i<n; i++){
+            if(indegree[i] == 0) q.push(i);
         }
+
         vector<int>ans;
+        int cnt = 0;
+
         while(!q.empty()){
-            int node = q.front();
+            int it = q.front();
+            ans.push_back(it);
             q.pop();
-            ans.push_back(node);
-            for(auto it: adj[node]){
-                ind[it]--;
-                if(ind[it] == 0){
-                    q.push(it);
-                }
+            cnt++;
+            for(auto &nbr: adj[it]){
+                indegree[nbr]--;
+                if(indegree[nbr] == 0) q.push(nbr);
             }
         }
-        if (ans.size() != numCourses) return {};
         return ans;
     }
 };
