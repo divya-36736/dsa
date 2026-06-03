@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/divya-36736/dsa/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/divya-36736/dsa/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divya-36736/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/divya-36736/dsa/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/divya-36736/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/divya-36736/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/divya-36736/dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/divya-36736/dsa/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divya-36736/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/divya-36736/dsa/tree/master/0630-course-schedule-iii) |
 | [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0924-fair-candy-swap](https://github.com/divya-36736/dsa/tree/master/0924-fair-candy-swap) |
@@ -1356,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/divya-36736/dsa/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/divya-36736/dsa/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/divya-36736/dsa/tree/master/0611-valid-triangle-number) |
+| [0630-course-schedule-iii](https://github.com/divya-36736/dsa/tree/master/0630-course-schedule-iii) |
 | [0670-maximum-swap](https://github.com/divya-36736/dsa/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/divya-36736/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/divya-36736/dsa/tree/master/0680-valid-palindrome-ii) |
@@ -1865,6 +1868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divya-36736/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/divya-36736/dsa/tree/master/0506-relative-ranks) |
+| [0630-course-schedule-iii](https://github.com/divya-36736/dsa/tree/master/0630-course-schedule-iii) |
 | [0744-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/divya-36736/dsa/tree/master/1094-car-pooling) |
