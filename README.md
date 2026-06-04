@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/divya-36736/dsa/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/divya-36736/dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/divya-36736/dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/divya-36736/dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/divya-36736/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/divya-36736/dsa/tree/master/3783-mirror-distance-of-an-integer) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/divya-36736/dsa/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/divya-36736/dsa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/divya-36736/dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3827-count-monobit-integers](https://github.com/divya-36736/dsa/tree/master/3827-count-monobit-integers) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/divya-36736/dsa/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Number Theory
@@ -1148,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2742-painting-the-walls](https://github.com/divya-36736/dsa/tree/master/2742-painting-the-walls) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/divya-36736/dsa/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/divya-36736/dsa/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/divya-36736/dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/divya-36736/dsa/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Linked List
 |  |
