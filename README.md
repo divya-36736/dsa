@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/divya-36736/dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divya-36736/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/divya-36736/dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/divya-36736/dsa/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2047-find-a-peak-element-ii](https://github.com/divya-36736/dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/divya-36736/dsa/tree/master/2048-build-array-from-permutation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/divya-36736/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -1792,6 +1793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/divya-36736/dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/divya-36736/dsa/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2101-detonate-the-maximum-bombs](https://github.com/divya-36736/dsa/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/divya-36736/dsa/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -2023,6 +2025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/divya-36736/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/divya-36736/dsa/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/divya-36736/dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/divya-36736/dsa/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2101-detonate-the-maximum-bombs](https://github.com/divya-36736/dsa/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/divya-36736/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2392-build-a-matrix-with-conditions](https://github.com/divya-36736/dsa/tree/master/2392-build-a-matrix-with-conditions) |
