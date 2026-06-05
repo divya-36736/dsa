@@ -11,23 +11,24 @@ public:
 
         vector<int>dist(n+1, 1e9);
         dist[k] = 0;
-        queue<pair<int, pair<int, int>>>q;
-        q.push({k, {dist[k], 0}});
 
-        while(!q.empty()){
-            auto it = q.front();
-            q.pop();
+        priority_queue<pair<int,int>, vector<pair<int, int>>, greater<pair<int, int>>>pq;
+        pq.push({k, dist[k]});
+
+        while(!pq.empty()){
+            auto it = pq.top();
+            pq.pop();
             int src = it.first;
-            int dis = it.second.first;
-            int num = it.second.second;
+            int dis = it.second;
+            
 
             for(auto &nbr: adj[src]){
                 int nbr1 = nbr.first;
                 int cost = nbr.second;
-                if(num > n) continue;
-                if(cost + dis < dist[nbr1] && num < n){
+
+                if(cost + dis < dist[nbr1]){
                     dist[nbr1] = cost + dis;
-                    q.push({nbr1, {dist[nbr1], num+1}});
+                    pq.push({nbr1, dist[nbr1]});
                 }
             }
         }
