@@ -1130,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/divya-36736/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/divya-36736/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/divya-36736/dsa/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/divya-36736/dsa/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/divya-36736/dsa/tree/master/0806-domino-and-tromino-tiling) |
@@ -1309,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divya-36736/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/divya-36736/dsa/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/divya-36736/dsa/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1765,6 +1767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divya-36736/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/divya-36736/dsa/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/divya-36736/dsa/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1895,6 +1898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/divya-36736/dsa/tree/master/0630-course-schedule-iii) |
 | [0744-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0744-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/divya-36736/dsa/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/divya-36736/dsa/tree/master/1127-last-stone-weight) |
@@ -1921,6 +1925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/divya-36736/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -2008,6 +2013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/divya-36736/dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/divya-36736/dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/divya-36736/dsa/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/divya-36736/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/divya-36736/dsa/tree/main/1791-find-center-of-star-graph/) | Easy |
