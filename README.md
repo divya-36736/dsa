@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/divya-36736/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/divya-36736/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/divya-36736/dsa/tree/master/0747-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/divya-36736/dsa/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/divya-36736/dsa/tree/master/0830-largest-triangle-area) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/divya-36736/dsa/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/divya-36736/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/divya-36736/dsa/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divya-36736/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divya-36736/dsa/tree/master/0875-koko-eating-bananas) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/divya-36736/dsa/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0542-01-matrix](https://github.com/divya-36736/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/divya-36736/dsa/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/divya-36736/dsa/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/divya-36736/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1036-rotting-oranges](https://github.com/divya-36736/dsa/tree/master/1036-rotting-oranges) |
@@ -1303,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/divya-36736/dsa/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/divya-36736/dsa/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divya-36736/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/divya-36736/dsa/tree/master/0785-is-graph-bipartite) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/divya-36736/dsa/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1758,6 +1762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/divya-36736/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/divya-36736/dsa/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0744-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divya-36736/dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/divya-36736/dsa/tree/master/0785-is-graph-bipartite) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/divya-36736/dsa/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1889,6 +1894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/divya-36736/dsa/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/divya-36736/dsa/tree/master/0630-course-schedule-iii) |
 | [0744-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0744-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/divya-36736/dsa/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/divya-36736/dsa/tree/master/1127-last-stone-weight) |
@@ -2015,6 +2021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/divya-36736/dsa/tree/main/0547-number-of-provinces/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/divya-36736/dsa/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/divya-36736/dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
