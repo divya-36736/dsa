@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/divya-36736/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/divya-36736/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divya-36736/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1514-path-with-maximum-probability](https://github.com/divya-36736/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/divya-36736/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/divya-36736/dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -1913,6 +1914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/divya-36736/dsa/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/divya-36736/dsa/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/divya-36736/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1514-path-with-maximum-probability](https://github.com/divya-36736/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1753-path-with-minimum-effort) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya-36736/dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -1938,6 +1940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/divya-36736/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/divya-36736/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -2030,6 +2033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/divya-36736/dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/divya-36736/dsa/tree/main/0997-find-the-town-judge/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/divya-36736/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/divya-36736/dsa/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/divya-36736/dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
