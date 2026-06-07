@@ -1,44 +1,62 @@
 class Solution {
 public:
+    class DisjointSet{
+        public:
+           vector<int>parent;
+           vector<int>rank;
 
-    void dfs(int node, vector<vector<int>>& adj, vector<int>& visited) {
-        visited[node] = 1;
-        for(int j = 0; j<adj[node].size(); j++){
-            if(!visited[adj[node][j]]){
-                dfs(adj[node][j], adj, visited);
+           DisjointSet(int n){
+            parent.resize(n);
+            rank.resize(n, 0);
+
+            for(int i = 0; i<n; i++){
+                parent[i] = i;
             }
         }
-    }
 
+        int findUpar(int node){
+            if(node == parent[node]) return node;
+            return parent[node] = findUpar(parent[node]);
+        }
+
+        void unionByRank(int u, int v){
+            int ulp_u = findUpar(u);
+            int ulp_v = findUpar(v);
+
+            if(ulp_u == ulp_v) return;
+
+            if(rank[ulp_u] < rank[ulp_v]){
+                parent[ulp_u] = ulp_v;
+            }
+
+            if(rank[ulp_v] < rank[ulp_u]){
+                parent[ulp_v] = ulp_u;
+            }
+
+            else{
+                parent[ulp_v] = parent[ulp_u];
+                rank[ulp_u]++;
+            }
+        } 
+    };
     int findCircleNum(vector<vector<int>>& isConnected) {
-
         int n = isConnected.size();
+        //i want to it DSU 
+        //i this we find the ultimate parent if the parent same then the connected other wise not
 
-        vector<vector<int>> adj(n);
+        DisjointSet ds(n);
 
-        for(int i = 0; i < n; i++) {
-
-            for(int j = 0; j < n; j++) {
-
-                if(i != j && isConnected[i][j] == 1) {
-
-                    adj[i].push_back(j);
+        for(int i = 0; i<n; i++){
+            for(int j= i+1; j<n; j++){
+                if(isConnected[i][j] == 1){
+                    ds.unionByRank(i, j);
                 }
             }
         }
-
-        int cnt = 0;
-        vector<int> visited(n, 0);
-
-        for(int i = 0; i < n; i++) {
-
-            if(!visited[i]) {
-
-                cnt++;
-                dfs(i, adj, visited);
-            }
+        int pro = 0;
+        for(int i = 0; i<n; i++){
+            if(ds.findUpar(i) == i) pro++;
         }
-
-        return cnt;
+        return pro;
     }
 };
