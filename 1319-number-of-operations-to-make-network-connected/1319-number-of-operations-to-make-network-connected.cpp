@@ -1,11 +1,11 @@
 class DisjointSet{
     public:
       vector<int>parent;
-      vector<int>rank;
+      vector<int>size;
 
       DisjointSet(int n){
         parent.resize(n);
-        rank.resize(n, 0);
+        size.resize(n, 0);
         for(int i = 0; i<n; i++){
             parent[i] = i;
         }
@@ -16,21 +16,20 @@ class DisjointSet{
         return parent[node] = findUpar(parent[node]);
       }
 
-      void unionByRank(int u, int v){
+      void unionBySize(int u, int v){
         int ulp_u = findUpar(u);
         int ulp_v = findUpar(v);
 
         if(ulp_u == ulp_v) return;
 
-        if(rank[ulp_u] < rank[ulp_v]){
+        if(size[ulp_u] < size[ulp_v]){
             parent[ulp_u] = ulp_v;
+            size[ulp_v] += size[ulp_u];
         }
-        else if(rank[ulp_v] < rank[ulp_u]){
-            parent[ulp_v] = ulp_u;
-        }
+
         else{
             parent[ulp_v] = ulp_u;
-            rank[ulp_u]++;
+            size[ulp_u] += size[ulp_v];
         }
       }
 };
@@ -45,7 +44,7 @@ public:
         DisjointSet ds(n);
 
         for(auto &e: connections){
-            ds.unionByRank(e[0], e[1]);
+            ds.unionBySize(e[0], e[1]);
         }
 
         unordered_set<int>comp;
