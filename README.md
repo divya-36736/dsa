@@ -1313,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divya-36736/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/divya-36736/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0684-redundant-connection](https://github.com/divya-36736/dsa/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/divya-36736/dsa/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/divya-36736/dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/divya-36736/dsa/tree/master/0733-flood-fill) |
@@ -1779,6 +1780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divya-36736/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/divya-36736/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/divya-36736/dsa/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/divya-36736/dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/divya-36736/dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0743-network-delay-time) |
@@ -2041,6 +2043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/divya-36736/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/divya-36736/dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/divya-36736/dsa/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/divya-36736/dsa/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/divya-36736/dsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -2064,6 +2067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/divya-36736/dsa/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/divya-36736/dsa/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/divya-36736/dsa/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/divya-36736/dsa/tree/master/0785-is-graph-bipartite) |
