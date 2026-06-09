@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/divya-36736/dsa/tree/master/0792-binary-search) |
+| [0827-making-a-large-island](https://github.com/divya-36736/dsa/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/divya-36736/dsa/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/divya-36736/dsa/tree/master/0840-magic-squares-in-grid) |
 | [0848-shifting-letters](https://github.com/divya-36736/dsa/tree/master/0848-shifting-letters) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/divya-36736/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/divya-36736/dsa/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/divya-36736/dsa/tree/master/0827-making-a-large-island) |
 | [0840-magic-squares-in-grid](https://github.com/divya-36736/dsa/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/divya-36736/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1036-rotting-oranges](https://github.com/divya-36736/dsa/tree/master/1036-rotting-oranges) |
@@ -1332,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/divya-36736/dsa/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/divya-36736/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1797,6 +1800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/divya-36736/dsa/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/divya-36736/dsa/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -2074,6 +2078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/divya-36736/dsa/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/divya-36736/dsa/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/divya-36736/dsa/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/divya-36736/dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/divya-36736/dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1631-path-with-minimum-effort) |
