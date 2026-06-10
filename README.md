@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/divya-36736/dsa/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/divya-36736/dsa/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/divya-36736/dsa/tree/master/3643-flip-square-submatrix-vertically) |
+| [3689-maximum-total-subarray-value-i](https://github.com/divya-36736/dsa/tree/master/3689-maximum-total-subarray-value-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/divya-36736/dsa/tree/master/3708-longest-fibonacci-subarray) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divya-36736/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/divya-36736/dsa/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -1441,6 +1442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/divya-36736/dsa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/divya-36736/dsa/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/divya-36736/dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/divya-36736/dsa/tree/master/3689-maximum-total-subarray-value-i) |
 ## Trie
 |  |
 | ------- |
