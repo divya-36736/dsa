@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/divya-36736/dsa/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/divya-36736/dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/divya-36736/dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/divya-36736/dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/divya-36736/dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/divya-36736/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1367,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/divya-36736/dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1687,6 +1689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/divya-36736/dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
