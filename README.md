@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/divya-36736/dsa/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/divya-36736/dsa/tree/master/3798-largest-even-number) |
+| [3838-weighted-word-mapping](https://github.com/divya-36736/dsa/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/divya-36736/dsa/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/divya-36736/dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/divya-36736/dsa/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/divya-36736/dsa/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3827-implement-router](https://github.com/divya-36736/dsa/tree/master/3827-implement-router) |
+| [3838-weighted-word-mapping](https://github.com/divya-36736/dsa/tree/master/3838-weighted-word-mapping) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/divya-36736/dsa/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/divya-36736/dsa/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/divya-36736/dsa/tree/master/3862-find-the-smallest-balanced-index) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/divya-36736/dsa/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divya-36736/dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/divya-36736/dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/divya-36736/dsa/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
