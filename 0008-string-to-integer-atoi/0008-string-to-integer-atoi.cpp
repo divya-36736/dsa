@@ -1,25 +1,26 @@
 class Solution {
 public:
+    int help(int i, string &s, int sign, long long num){
+        if(i >= s.size() || !isdigit(s[i])) return (sign*num);
+
+        num = num * 10 + s[i] - '0';
+        if(sign*num <= INT_MIN) return INT_MIN;
+        if(sign*num >= INT_MAX) return INT_MAX;
+
+        return help(i+1, s, sign, num);
+    }
     int myAtoi(string s) {
         int n = s.size();
-        int sign = 1;
         int i = 0;
-        
         while(i<n && s[i] == ' '){
             i++;
         }
-        //check sign
+
+        int sign = 1;
         if(i<n && (s[i] == '-' || s[i] == '+')){
-            sign = (s[i] == '-') ? -1 : 1;
+            sign = (s[i] == '-')? -1 : 1;
             i++;
         }
-        long ans = 0;
-        while(i<n && isdigit(s[i])){
-            ans = ans * 10 + (s[i] - '0');
-            if(sign == 1 && ans > INT_MAX) return INT_MAX;
-            if(sign == -1 && -ans < INT_MIN) return INT_MIN;
-            i++;
-        }
-        return (int)(sign*ans);
+        return help(i, s, sign, 0);
     }
 };
