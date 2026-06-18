@@ -1,23 +1,22 @@
 class Solution {
 public:
-    void backTrack(int n, int open, int close, string curr, vector<string>&ans){
-        //base case
-        if(open == n && close == n){
+    void help(int n, int op, int cl, string curr, vector<string>&ans){
+        if(op == n && cl == n){
             ans.push_back(curr);
             return;
         }
-        //1st add ( 
-        if(open<n){
-            backTrack(n, open+1, close, curr+"(", ans);
+
+        if(op < n){
+            help(n, op+1, cl, curr+"(", ans);
         }
-        //after ( now we add )
-        if(close < open){
-            backTrack(n, open, close+1, curr+")", ans);
+        if(cl < op){
+            help(n, op, cl+1, curr+")", ans);
         }
     }
     vector<string> generateParenthesis(int n) {
         vector<string>ans;
-        backTrack(n, 0, 0, "", ans);
+        string curr = "";
+        help(n, 0, 0, curr, ans);
         return ans;
     }
 };
