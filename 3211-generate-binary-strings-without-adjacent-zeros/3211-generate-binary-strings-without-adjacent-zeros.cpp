@@ -1,25 +1,21 @@
 class Solution {
 public:
-    void helper(int n, string &curr, vector<string>&ans){
+    void helper(int n, string curr, char prev, vector<string>& ans) {
         if(curr.size() == n){
             ans.push_back(curr);
             return;
         }
 
-        curr.push_back('1');
-        helper(n, curr, ans);
-        curr.pop_back();
+        helper(n, curr + '1', '1', ans);
 
-        if(curr.empty() || curr.back() != '0'){
-            curr.push_back('0');
-            helper(n, curr, ans);
-            curr.pop_back();
+        if(prev != '0'){
+            helper(n, curr + '0', '0', ans);
         }
     }
+
     vector<string> validStrings(int n) {
-        vector<string>ans;
-        string curr = "";
-        helper(n, curr, ans);
+        vector<string> ans;
+        helper(n, "", '1', ans);
         return ans;
     }
 };
