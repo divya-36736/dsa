@@ -16,7 +16,7 @@ public:
         //nottake
         int nottake = solve(i+1, n, power, dp);
 
-        return dp[i][n] = take+nottake;
+        return dp[i][n] = (take+nottake)%mod;
     }
     int numberOfWays(int n, int x) {
         vector<int>power;
