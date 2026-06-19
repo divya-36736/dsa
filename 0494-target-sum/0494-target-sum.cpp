@@ -30,30 +30,33 @@ public:
         //s1 + S2 = totsum
         int s1 = (totsum + target)/2;
 
-        vector<vector<int>>dp(n, vector<int>(s1+1, 0));
+        //vector<vector<int>>dp(n, vector<int>(s1+1, 0));
         //return ways(n-1, s1, nums, dp);
+        vector<int>prev(s1+1, 0);
         if(nums[0] == 0){
-            dp[0][0] = 2;
+            prev[0] = 2;
         }
         else{
-            dp[0][0] = 1;
+            prev[0] = 1;
             if(nums[0]<=s1){
-                dp[0][nums[0]] = 1;
+                prev[nums[0]] = 1;
             }
         }
 
         for(int i = 1; i<n; i++){
+            vector<int>curr(s1+1, 0);
             for(int sum = 0; sum <=s1; sum++){
                 int take = 0;
                 if(nums[i] <= sum){
-                take = dp[i-1][sum-nums[i]];
+                take = prev[sum-nums[i]];
                 }
                 //not take
-                int nottake = dp[i-1][sum];
+                int nottake = prev[sum];
 
-                dp[i][sum] = take+nottake;
+                curr[sum] = take+nottake;
             }
+            prev = curr;
         }
-        return dp[n-1][s1];
+        return prev[s1];
     }
 };
