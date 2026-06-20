@@ -26,28 +26,34 @@ public:
             power.push_back(val);
         }
         int m = power.size();
-        vector<vector<int>>dp(m, vector<int>(n+1, 0));
+        //vector<vector<int>>dp(m, vector<int>(n+1, 0));
         //return solve(0, n, power, dp);
         //base case
-        for(int i = 0; i<m; i++){
-            dp[i][0] = 1;
-        }
-        if(power[0] <= n){
-            dp[0][power[0]] = 1;
-        }
+
+        vector<int>prev(n+1, 0);
+
+        prev[0] = 1;
         
+
+        if(power[0] <= n){
+            prev[power[0]] = 1;
+        }
+
         for(int i = 1; i<m; i++){
+            vector<int>curr(n+1, 0);
+            curr[0]= 1;
             for(int j = 1; j<=n; j++){
                 int take = 0;
                 if(power[i]<=j){
-                    take = dp[i-1][j-power[i]];
+                    take = prev[j-power[i]];
                 }
                 //nottake
-                int nottake = dp[i-1][j];
+                int nottake = prev[j];
 
-                dp[i][j] = (take + nottake)%mod;
+                curr[j] = (take + nottake)%mod;
             }
+            prev = curr;
         }
-        return dp[m-1][n];
+        return prev[n];
     }
 };
