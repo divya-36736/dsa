@@ -29,28 +29,32 @@ public:
             return 0;
         else {
             int k = (totsum) / 2;
-            vector<vector<bool>> dp(n, vector<bool>(k + 1, false));
+           // vector<vector<bool>> dp(n, vector<bool>(k + 1, false));
             // return solve(0, k, nums, dp);
-            for (int i = 0; i < n; i++) {
-                dp[i][0] = true;
-            }
+
+            vector<bool>prev(k+1, false);
+
+            prev[0] = true;
+            
 
             if (nums[0] <= k) {
-                dp[0][nums[0]] = true;
+                prev[nums[0]] = true;
             }
 
             for (int i = 1; i < n; i++) {
+                vector<bool>curr(k+1, false);
                 for (int sum = 1; sum <= k; sum++) {
                     bool take = false;
                     if (nums[i] <= sum) {
-                        take = dp[i-1][sum-nums[i]];
+                        take = prev[sum-nums[i]];
                     }
-                    bool nottake = dp[i-1][sum];
+                    bool nottake = prev[sum];
 
-                    dp[i][sum] = take || nottake;
+                    curr[sum] = take || nottake;
                 }
+                prev = curr;
             }
-            return dp[n-1][k];
+            return prev[k];
         }
         
     }
