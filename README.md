@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/divya-36736/dsa/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/divya-36736/dsa/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/divya-36736/dsa/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/divya-36736/dsa/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/divya-36736/dsa/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/divya-36736/dsa/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/divya-36736/dsa/tree/master/0326-power-of-three) |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/divya-36736/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/divya-36736/dsa/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/divya-36736/dsa/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/divya-36736/dsa/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/divya-36736/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/divya-36736/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/divya-36736/dsa/tree/master/0312-burst-balloons) |
@@ -1810,6 +1812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/divya-36736/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/divya-36736/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/divya-36736/dsa/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/divya-36736/dsa/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divya-36736/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/divya-36736/dsa/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/divya-36736/dsa/tree/master/0365-water-and-jug-problem) |
