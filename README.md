@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/divya-36736/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/divya-36736/dsa/tree/master/1048-longest-string-chain) |
 | [1078-remove-outermost-parentheses](https://github.com/divya-36736/dsa/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/divya-36736/dsa/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/divya-36736/dsa/tree/master/1205-defanging-an-ip-address) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/divya-36736/dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/divya-36736/dsa/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -1188,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/divya-36736/dsa/tree/master/1048-longest-string-chain) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/divya-36736/dsa/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/divya-36736/dsa/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/divya-36736/dsa/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/divya-36736/dsa/tree/master/1250-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/divya-36736/dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
