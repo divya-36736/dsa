@@ -1,22 +1,20 @@
 class Solution {
 public:
-    bool isPalindrome(string &s, int l, int r){
-        while(l<r){
-            if(s[l] != s[r]) return false;
-            l++;
-            r--;
+    bool ispalin(string &s, int i, int j){
+        while(i<j){
+            if(s[i++] != s[j--]) return false;
         }
         return true;
     }
     string longestPalindrome(string s) {
         int n = s.size();
-        int maxi = 0;
         string ans = "";
+        int maxi = 0;
         for(int i = 0; i<n; i++){
             for(int j = i; j<n; j++){
-                if(isPalindrome(s, i, j)){
-                    int len = (j-i+1);
-                    if(len > maxi){
+                if(ispalin(s, i, j)){
+                    int len = j-i+1;
+                    if(len>maxi){
                         maxi = len;
                         ans = s.substr(i, len);
                     }
