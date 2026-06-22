@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-total-appeal-of-a-string](https://github.com/divya-36736/dsa/tree/master/2262-total-appeal-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/divya-36736/dsa/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divya-36736/dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/divya-36736/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divya-36736/dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/divya-36736/dsa/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/divya-36736/dsa/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
 | [2262-total-appeal-of-a-string](https://github.com/divya-36736/dsa/tree/master/2262-total-appeal-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/divya-36736/dsa/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/divya-36736/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/divya-36736/dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya-36736/dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/divya-36736/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1117,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/divya-36736/dsa/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/divya-36736/dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/divya-36736/dsa/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/divya-36736/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/divya-36736/dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divya-36736/dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/divya-36736/dsa/tree/master/2833-furthest-point-from-origin) |
