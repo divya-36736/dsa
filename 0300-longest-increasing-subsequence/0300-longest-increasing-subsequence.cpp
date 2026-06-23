@@ -1,24 +1,20 @@
 class Solution {
 public:
+    int solve(int i, int prev, vector<int>&nums, vector<vector<int>>&dp){
+        int n = nums.size();
+        if(i == n) return 0;
+        if(dp[i][prev+1] != -1) return dp[i][prev+1];
+        //take nottake
+        int take = 0;
+        if(prev == -1 || nums[prev] < nums[i]){
+            take =  1+solve(i+1, i, nums, dp);
+        }
+        int nottake = solve(i+1, prev, nums, dp);
+        return dp[i][prev+1] = max(take, nottake);
+    }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<int>next(n+1, 0);
-        vector<int>curr(n+1, 0);
-
-
-        for (int i = n-1; i >= 0; i--) {
-            for (int prev_i = i-1; prev_i >= -1; prev_i--) {
-
-                int len = next[prev_i + 1]; // not take
-
-                if (prev_i == -1 || nums[prev_i] < nums[i]) {
-                    len = max(len, 1 + next[i+1]); // take
-                }
-
-                curr[prev_i + 1] = len;
-            }
-            next = curr;
-        }
-        return next[0];
+        vector<vector<int>>dp(n, vector<int>(n+1, -1));
+        return solve(0, -1, nums, dp);
     }
 };
