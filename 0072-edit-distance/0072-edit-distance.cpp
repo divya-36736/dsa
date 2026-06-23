@@ -1,18 +1,18 @@
 class Solution {
 public:
     int solve(int i, int j, string &s, string &t, vector<vector<int>>&dp){
-        if(i<0){
+        if(i == 0){
             //means s empty "" then add all s2/t
-            return j+1;
+            return j;
         }
-        if(j<0){
+        if(j == 0){
            // means t is emoty "" then delete all s1/s
-           return i+1;
+           return i;
         }
 
         if(dp[i][j] != -1) return dp[i][j];
         //if match
-        if(s[i] == t[j]){
+        if(s[i-1] == t[j-1]){
             //not required any operation
             dp[i][j]  = solve(i-1, j-1, s, t, dp);
         }else{ //notmatch //replace(i-1, j-1), //delete(i-1, j) //insert(i, j-1)
@@ -23,7 +23,22 @@ public:
     int minDistance(string word1, string word2) {
         int n = word1.size();
         int m = word2.size();
-        vector<vector<int>>dp(n, vector<int>(m, -1));
-        return solve(n-1, m-1, word1, word2, dp);
+        //vector<vector<int>>dp(n+1, vector<int>(m+1, -1));
+        vector<vector<int>>dp(n+1, vector<int>(m+1, 0));
+        //return solve(n-1, m-1, word1, word2, dp);
+        //base case
+        for(int j = 0; j<=m; j++) dp[0][j] = j;
+        for(int i = 1; i<=n; i++) dp[i][0] = i;
+
+        for(int i = 1; i<=n; i++){
+            for(int j = 1; j<=m; j++){
+                if(word1[i-1] == word2[j-1]){
+                    dp[i][j] = dp[i-1][j-1];
+                }else{
+                    dp[i][j] = 1+min(dp[i-1][j-1], min(dp[i-1][j], dp[i][j-1]));
+                }
+            }
+        }
+        return dp[n][m];
     }
 };
