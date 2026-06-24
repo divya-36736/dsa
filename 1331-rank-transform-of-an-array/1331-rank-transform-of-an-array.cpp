@@ -2,22 +2,27 @@ class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
         int n = arr.size();
-        vector<int>sorted = arr;
-        sort(sorted.begin(), sorted.end());
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>>pq;
 
-        unordered_map<int, int>rankmap;
-        int rank = 1;
+        for(int i = 0; i<n; i++){
+            pq.push({arr[i], i});
+        }
+        int rank = 0;
+        vector<int>res(n);
+        int prev= INT_MAX;
 
-        for(auto &nums:sorted){
-            if(rankmap.find(nums) == rankmap.end()){
-                rankmap[nums] = rank;
+        while(!pq.empty()){
+            auto it = pq.top();
+            pq.pop();
+
+            int fist = it.first;
+            int scnd = it.second;
+
+            if(prev != fist){
+                prev = fist;
                 rank++;
             }
-        }
-
-        vector<int>res;
-        for(auto &nums: arr){
-            res.push_back(rankmap[nums]);
+            res[scnd] = rank;
         }
         return res;
     }
