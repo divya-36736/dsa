@@ -1,41 +1,57 @@
 class Solution {
 public:
-    
-    int findKthLargest(vector<int>& nums, int k) {
-        // 1st we do this sort
-        int n = nums.size();
-        //  sort(nums.begin(), nums.end());
-        //  return nums[n-k];
+    // Function to get a random pivot index
+    int randomIdx(int l, int r) {
+        int len = r - l + 1;
+        return (rand() % len) + l;
+    }
 
-        // by heap max heap
-        // priority_queue<int>pq;
-        // for(int i = 0; i<n; i++){
-        //     pq.push(nums[i]);
-        // }
-        // int ans = 0;
-        // while(!pq.empty()){
-        //     k--;
-        //     if(k == 0){
-        //         ans =  pq.top();
-        //     }
-        //     pq.pop();
-        // }
-        // return ans;
+    // Partition the array and return the final position of pivot
+    int partitionAndReturnIdx(vector<int>& nums, int pivotIdx, int l, int r) {
+        int pivot = nums[pivotIdx];
 
-        //min heap
-        //pq
-        priority_queue<int, vector<int>, greater<int>>pq;
-        for(int i = 0; i<k; i++){
-            pq.push(nums[i]);
-        }
-        int idx = k;
-        while(!pq.empty() && idx<n){
-            if(nums[idx]>pq.top()){
-                pq.pop();
-                pq.push(nums[idx]);
+        // Move pivot to the beginning
+        swap(nums[l], nums[pivotIdx]);
+
+        int idx = l + 1;
+
+        // Place all elements greater than pivot to the left side
+        for (int i = l + 1; i <= r; i++) {
+            if (nums[i] > pivot) {
+                swap(nums[idx], nums[i]);
+                idx++;
             }
-            idx++;
         }
-        return pq.top();
+
+        // Place pivot at its correct position
+        swap(nums[l], nums[idx - 1]);
+
+        return idx - 1;
+    }
+
+    int findKthLargest(vector<int>& nums, int k) {
+        int n = nums.size();
+
+        if (k > n) return -1;
+
+        int l = 0;
+        int r = n - 1;
+
+        while (true) {
+            int pivotIdx = randomIdx(l, r);
+
+            pivotIdx = partitionAndReturnIdx(nums, pivotIdx, l, r);
+
+            if (pivotIdx == k - 1)
+                return nums[pivotIdx];
+
+            else if (pivotIdx > k - 1)
+                r = pivotIdx - 1;
+
+            else
+                l = pivotIdx + 1;
+        }
+
+        return -1;
     }
 };
