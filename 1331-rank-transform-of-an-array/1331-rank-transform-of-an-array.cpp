@@ -2,22 +2,23 @@ class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
         int n = arr.size();
-        vector<int> dup = arr;
-        sort(dup.begin(), dup.end());
+        vector<int>sorted = arr;
+        sort(sorted.begin(), sorted.end());
 
-        unordered_map<int,int> rank;
-        int r = 1;
+        unordered_map<int, int>rankmap;
+        int rank = 1;
 
-        for(int i = 0; i < n; i++){
-            if(rank.find(dup[i]) == rank.end()){
-                rank[dup[i]] = r++;
+        for(auto &nums:sorted){
+            if(rankmap.find(nums) == rankmap.end()){
+                rankmap[nums] = rank;
+                rank++;
             }
         }
 
-        vector<int> ans(n);
-        for(int i = 0; i < n; i++){
-            ans[i] = rank[arr[i]];  
+        vector<int>res;
+        for(auto &nums: arr){
+            res.push_back(rankmap[nums]);
         }
-        return ans;
+        return res;
     }
 };
