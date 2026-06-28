@@ -11,10 +11,6 @@ public:
         int cnt = 0;
         sort(diff.begin(), diff.end());
         for(int i = 0; i<c; i++){
-            if(diff[i] == 0){
-                cnt++;
-                continue;
-            }
             if(diff[i] <= add){
                 add = add-diff[i];
                 cnt++;
