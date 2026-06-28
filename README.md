@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/divya-36736/dsa/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/divya-36736/dsa/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divya-36736/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/divya-36736/dsa/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/divya-36736/dsa/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0890-lemonade-change) |
@@ -1476,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/divya-36736/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/divya-36736/dsa/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0890-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/divya-36736/dsa/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
