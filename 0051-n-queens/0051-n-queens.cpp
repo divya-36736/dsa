@@ -1,65 +1,60 @@
 class Solution {
 public:
-    bool isSafe(int row, int col, vector<string>&board, int n){
-        //check upper element
-        int duprow = row;
-        int dupcol = col;
-        //check uper left
-        while(row>=0 && col >= 0){
-            if(board[row][col] == 'Q'){
+    vector<vector<string>> ans;
+
+    bool issafe(int row, int col, vector<string>& board, int n) {
+        for (int i = row - 1; i >= 0; i--) {
+            if (board[i][col] == 'Q')
                 return false;
-            }
-            row--;
-            col--;
         }
 
-        //in a fix row ,
-        row = duprow;
-        col = dupcol;
-        while(col>=0){
-            if(board[row][col] == 'Q'){
+        int i = row - 1;
+        int j = col - 1;
+        while (i >= 0 && j >= 0) {
+            if (board[i][j] == 'Q') {
                 return false;
             }
-            
-            col--;
+            i--;
+            j--;
         }
-        //right diagonal
-        row = duprow;
-        col = dupcol;
-        while(row<n && col>=0){
-            if(board[row][col] == 'Q'){
+
+        i = row - 1;
+        j = col + 1;
+        while (i >= 0 && j < n) {
+            if (board[i][j] == 'Q')
                 return false;
-            }
-            row++;
-            col--;
+            i--;
+            j++;
         }
         return true;
-
     }
-
-    void solve(int col, vector<string>&board, vector<vector<string>>&ans, int n){
-        if(col == n){
+    void solve(int row, vector<string>& board, int n) {
+        if (row == n) {
             ans.push_back(board);
             return;
         }
-        for(int row = 0; row<n; row++){
-            if(isSafe(row, col, board, n)){
+
+        // place in all col
+        for (int col = 0; col < n; col++) {
+
+            if (issafe(row, col, board, n)) {
+
+                // Place queen
                 board[row][col] = 'Q';
-                solve(col+1, board, ans, n); //backtracking
-                board[row][col] = '.'; //backtraking ke time hum sbko . se fill kr denge
+
+                // Recurse
+                solve(row + 1, board, n);
+
+                // Backtrack
+                board[row][col] = '.';
             }
-            
         }
+
     }
-    vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>>ans;
-        //vector<string>board(n, string(n, '.')); or
-        vector<string>board(n);
-        string s(n, '.');
-        for(int i= 0; i<n; i++){
-            board[i] = s;
+
+        vector<vector<string>> solveNQueens(int n) {
+            vector<string> board(n, string(n, '.'));
+            solve(0, board, n);
+            return ans;
         }
-        solve(0, board, ans, n);
-        return ans;
-    }
-};
+    };
