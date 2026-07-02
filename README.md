@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/divya-36736/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/divya-36736/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/divya-36736/dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/divya-36736/dsa/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/divya-36736/dsa/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/divya-36736/dsa/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/divya-36736/dsa/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/divya-36736/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/divya-36736/dsa/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3446-sort-matrix-by-diagonals](https://github.com/divya-36736/dsa/tree/master/3446-sort-matrix-by-diagonals) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/divya-36736/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1924,6 +1926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/divya-36736/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/divya-36736/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -2040,6 +2043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/divya-36736/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/divya-36736/dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/divya-36736/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divya-36736/dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/divya-36736/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/divya-36736/dsa/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -2064,6 +2068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/divya-36736/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/divya-36736/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/divya-36736/dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/divya-36736/dsa/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Quickselect
@@ -2171,6 +2176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/divya-36736/dsa/tree/master/2392-build-a-matrix-with-conditions) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/divya-36736/dsa/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/divya-36736/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
