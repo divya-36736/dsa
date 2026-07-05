@@ -1,31 +1,30 @@
 class Solution {
 public:
-
-    bool isPallindromic(string s, int i, int j){
+    bool ispalindrom(string s, int i, int j){
         while(i<=j){
             if(s[i++] != s[j--]) return false;
         }
         return true;
     }
-    void parthelper(int i, string s, vector<vector<string>>&ans, vector<string>&ds){    
-        //Base case
+    void f(int i, string s, vector<vector<string>>&ans, vector<string>&ds){
         if(i == s.size()){
             ans.push_back(ds);
             return;
         }
-        //partition of string
+
         for(int j = i; j<s.size(); j++){
-            if(isPallindromic(s, i, j)){ //if pallindrom then it push krdo in ds
-                ds.push_back(s.substr(i, j-i+1)); //from i to i-j+1
-                parthelper(j+1, s, ans, ds); //call next part
-                ds.pop_back(); //backtracking
+            if(ispalindrom(s, i, j)){
+                ds.push_back(s.substr(i, j-i+1));
+                f(j+1, s, ans, ds);
+                ds.pop_back();
             }
         }
     }
     vector<vector<string>> partition(string s) {
+        int n = s.size();
         vector<vector<string>>ans;
         vector<string>ds;
-        parthelper(0, s, ans, ds);
+        f(0, s, ans, ds);
         return ans;
     }
 };
