@@ -1,23 +1,39 @@
 class Solution {
 public:
+    bool isSafe(vector<vector<char>>& board, int row, int col, char c) {
+        for (int i = 0; i < 9; i++) {
+            if (i != col && board[row][i] == c)
+                return false;
+
+            if (i != row && board[i][col] == c)
+                return false;
+
+            int r = 3 * (row / 3) + i / 3;
+            int cc = 3 * (col / 3) + i % 3;
+
+            if ((r != row || cc != col) && board[r][cc] == c)
+                return false;
+        }
+        return true;
+    }
     bool isValidSudoku(vector<vector<char>>& board) {
-        bool rows[9][9] = {false};
-        bool cols[9][9] = {false};
-        bool boxes[9][9] = {false};
 
-        for(int i = 0; i < 9; i++){
-            for(int j = 0; j < 9; j++){
-                if(board[i][j] != '.'){
-                    int num = board[i][j] - '1';
-                    int boxInd = (i/3) * 3 + (j/3);
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
 
-                    if(rows[i][num] || cols[j][num] || boxes[boxInd][num])
-                        return false;
+                if (board[i][j] == '.')
+                    continue;
 
-                    rows[i][num] = cols[j][num] = boxes[boxInd][num] = true;
-                }
+                char temp = board[i][j];
+                board[i][j] = '.';
+
+                if (!isSafe(board, i, j, temp))
+                    return false;
+
+                board[i][j] = temp;
             }
         }
+
         return true;
     }
 };
