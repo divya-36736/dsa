@@ -9,14 +9,14 @@ public:
         }
 
         for (int i = index; i < num.size(); i++) {
-            // Prevent numbers with leading zero
+            
             if (i > index && num[index] == '0') break;
 
             string currStr = num.substr(index, i - index + 1);
             long long curr = stoll(currStr);
 
             if (index == 0) {
-                // First number, take as is
+                
                 backtrack(num, target, i + 1, curr, curr, currStr);
             } else {
                 // '+'
