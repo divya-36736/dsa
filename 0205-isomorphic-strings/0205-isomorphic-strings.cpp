@@ -1,18 +1,18 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if (s.size() != t.size()) return false;
         int n = s.size();
-        unordered_map<char, int> m1, m2;
+        unordered_map<char, char>mp1, mp2;
+        if(s.size() != t.size()) return false;
 
-        for (int i = 0; i < n; ++i) {
-            if (m1.find(s[i]) == m1.end()) {
-                m1[s[i]] = i;
+        for(int i = 0; i<n; i++){
+            if(mp1.find(s[i]) == mp1.end()){
+                mp1[s[i]] = i;
             }
-            if (m2.find(t[i]) == m2.end()) {
-                m2[t[i]] = i;
+            if(mp2.find(t[i]) == mp2.end()){
+                mp2[t[i]] = i;
             }
-            if (m1[s[i]] != m2[t[i]]) {
+            if(mp1[s[i]] != mp2[t[i]]){
                 return false;
             }
         }
