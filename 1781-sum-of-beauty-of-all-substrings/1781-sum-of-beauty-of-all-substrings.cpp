@@ -2,23 +2,23 @@ class Solution {
 public:
     int beautySum(string s) {
         int n = s.size();
-        int ans = 0;
-
+        int sum = 0;
         for(int i = 0; i<n; i++){
-            vector<int>m(26, 0);
+            unordered_map<char, int>mp;
             for(int j = i; j<n; j++){
-                m[s[j] - 'a']++;
-                int mf = 0;
-                int lf = INT_MAX;
-                for(int a:m){
-                    if(a>0){
-                        mf = max(mf, a);
-                        lf = min(lf, a);
-                    }
+                
+                mp[s[j]]++;
+
+                int maxi = INT_MIN;
+                int mini = INT_MAX;
+
+                for(auto &it: mp){
+                    maxi = max(maxi, it.second);
+                    mini = min(mini, it.second);
                 }
-                ans += (mf-lf);
+                sum += (maxi-mini);
             }
         }
-        return ans;
+        return sum;
     }
 };
