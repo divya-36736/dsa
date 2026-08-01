@@ -9,14 +9,20 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        ListNode* temp1 = headA;
-        while(temp1){
-            ListNode*temp2 = headB;
-            while(temp2){
-                if(temp1 == temp2) return temp1;
-                temp2= temp2->next;
+        ListNode* d1 = headA;
+        ListNode* d2 = headB;
+
+        unordered_set<ListNode*>st;
+        while(d1){
+            st.insert(d1);
+            d1 = d1->next;
+        }
+
+        while(d2){
+            if(st.find(d2) != st.end()){
+                return d2;
             }
-            temp1 = temp1->next;
+            d2 = d2->next;
         }
         return NULL;
     }
