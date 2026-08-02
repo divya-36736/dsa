@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/divya-36736/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/divya-36736/dsa/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/divya-36736/dsa/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/divya-36736/dsa/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/divya-36736/dsa/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/divya-36736/dsa/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/divya-36736/dsa/tree/master/0273-integer-to-english-words) |
@@ -1964,6 +1965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divya-36736/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/divya-36736/dsa/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/divya-36736/dsa/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/divya-36736/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/divya-36736/dsa/tree/master/0686-repeated-string-match) |
@@ -1973,6 +1975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/divya-36736/dsa/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/divya-36736/dsa/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/divya-36736/dsa/tree/master/1392-longest-happy-prefix) |
 | [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
@@ -2185,6 +2188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/divya-36736/dsa/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/divya-36736/dsa/tree/master/1392-longest-happy-prefix) |
 | [2261-k-divisible-elements-subarrays](https://github.com/divya-36736/dsa/tree/master/2261-k-divisible-elements-subarrays) |
 ## Graph Theory
