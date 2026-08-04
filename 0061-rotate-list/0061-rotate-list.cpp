@@ -10,44 +10,24 @@
  */
 class Solution {
 public:
-    // Helper function: find the k-th node in the linked list
-    ListNode* findNthNode(ListNode* temp, int k) {
-        int cnt = 1;
-        while (temp != NULL) {
-            if (cnt == k) return temp;
-            cnt++;
-            temp = temp->next;
-        }
-        return temp; // if k > length, returns NULL
-    }
-
     ListNode* rotateRight(ListNode* head, int k) {
-        if (head == NULL || k == 0) return head;
-
-        // Step 1: find length and tail
+        if (!head || !head->next || k == 0) return head;
         ListNode* tail = head;
-        int len = 1;
-        while (tail->next != NULL) {
+        int length = 1;
+        while(tail->next){
             tail = tail->next;
-            len++;   // ✅ increment instead of resetting
+            length++;
         }
-
-        // Step 2: handle cases where k is multiple of len
-        k = k % len;
-        if (k == 0) return head;
-
-        //connect tail to head to form circular list
         tail->next = head;
 
-        //find new last node (len - k)-th node
-        ListNode* newLastNode = findNthNode(head, len - k);
-
-        //new head is after newLastNode
-        head = newLastNode->next;
-
-        //break the circle
-        newLastNode->next = NULL;
-
-        return head;
+        k = k%length;
+        int newk = length-k;
+        ListNode* newtail = head;
+        for(int i = 1; i<newk; i++){
+            newtail = newtail->next;
+        }
+        ListNode* newhead = newtail->next;
+        newtail->next = NULL;
+        return newhead;
     }
 };
