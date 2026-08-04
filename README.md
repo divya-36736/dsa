@@ -2188,6 +2188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/divya-36736/dsa/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/divya-36736/dsa/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/divya-36736/dsa/tree/master/1211-queries-quality-and-percentage) |
+| [1683-invalid-tweets](https://github.com/divya-36736/dsa/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/divya-36736/dsa/tree/master/1757-recyclable-and-low-fat-products) |
 ## Rolling Hash
 |  |
