@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/divya-36736/dsa/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/divya-36736/dsa/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/divya-36736/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/divya-36736/dsa/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3340-check-balanced-string](https://github.com/divya-36736/dsa/tree/master/3340-check-balanced-string) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/divya-36736/dsa/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/divya-36736/dsa/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/divya-36736/dsa/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/divya-36736/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3227-find-missing-and-repeated-values](https://github.com/divya-36736/dsa/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/divya-36736/dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/divya-36736/dsa/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -1695,6 +1697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/divya-36736/dsa/tree/master/2211-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divya-36736/dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2401-longest-nice-subarray](https://github.com/divya-36736/dsa/tree/master/2401-longest-nice-subarray) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/divya-36736/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/divya-36736/dsa/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
