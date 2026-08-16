@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/divya-36736/dsa/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/divya-36736/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
+| [0990-satisfiability-of-equality-equations](https://github.com/divya-36736/dsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/divya-36736/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/divya-36736/dsa/tree/master/1048-longest-string-chain) |
 | [1078-remove-outermost-parentheses](https://github.com/divya-36736/dsa/tree/master/1078-remove-outermost-parentheses) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/divya-36736/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/divya-36736/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
+| [0990-satisfiability-of-equality-equations](https://github.com/divya-36736/dsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/divya-36736/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/divya-36736/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/divya-36736/dsa/tree/main/0997-find-the-town-judge/) | Easy |
@@ -2226,6 +2228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/divya-36736/dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/divya-36736/dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/divya-36736/dsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/divya-36736/dsa/tree/main/0997-find-the-town-judge/) | Easy |
 | [1192-critical-connections-in-a-network](https://github.com/divya-36736/dsa/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/divya-36736/dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -2254,6 +2257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/divya-36736/dsa/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/divya-36736/dsa/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/divya-36736/dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/divya-36736/dsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/divya-36736/dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/divya-36736/dsa/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/divya-36736/dsa/tree/master/1631-path-with-minimum-effort) |
