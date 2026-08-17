@@ -1,63 +1,52 @@
-class DisjointSet{
+class distjointset{
     public:
-      vector<int>parent;
-      vector<int>size;
-
-      DisjointSet(int n){
+       vector<int>parent;
+       vector<int>rank;
+       distjointset(int n){
         parent.resize(n);
-        size.resize(n, 1);
-        for(int i = 0; i<n; i++){
-            parent[i] = i;
-        }
-      }
+        rank.resize(n, 0);
+        for(int i=0;i<n;i++) parent[i]=i;
+    }
 
-      int findUpar(int node){
-        if(node == parent[node]){
-            return node;
-        }
-        return parent[node] = findUpar(parent[node]);
-      }
+    int findupar(int node){
+        if(node == parent[node]) return node;
+        return parent[node] = findupar(parent[node]);
+    }
 
-      void unionBysize(int u, int v){
-        int ulp_u = findUpar(u);
-        int ulp_v = findUpar(v);
+    void unionByrank(int u, int v){
+        int ulpa_u = findupar(u);
+        int ulpa_v = findupar(v);
 
-        if(ulp_u == ulp_v) return;
-        if(size[ulp_u] < size[ulp_v]){
-            parent[ulp_u] = ulp_v;
-            size[ulp_v] += size[ulp_u];
+        if(ulpa_u == ulpa_v) return;
+        if(rank[ulpa_u]>rank[ulpa_v]){
+            parent[ulpa_v] = ulpa_u;
+            rank[ulpa_u]++;
         }
-        else{
-            parent[ulp_v] = ulp_u;
-            size[ulp_u] += size[ulp_v];
+        else if(rank[ulpa_v]>rank[ulpa_u]){
+            parent[ulpa_u] = ulpa_v;
+            rank[ulpa_v]++;
+        }else{
+            parent[ulpa_u] = ulpa_v;
+            rank[ulpa_u]++;
         }
-      }
+    }
 };
-
-
 class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
         int n = stones.size();
-
-        DisjointSet ds(n);
-
+        distjointset ds(n);
         for(int i = 0; i<n; i++){
             for(int j = i+1; j<n; j++){
-
                 if(stones[i][0] == stones[j][0] || stones[i][1] == stones[j][1]){
-                    ds.unionBysize(i, j);
+                    ds.unionByrank(i, j);
                 }
             }
         }
-
         int comp = 0;
-
-        for(int i = 0; i<n; i++){
-            if(ds.findUpar(i) == i) comp++;
+        for(int i=0; i<n; i++){
+            if(ds.findupar(i) == i) comp++;
         }
-
         return n-comp;
-
     }
 };
