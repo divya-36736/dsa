@@ -17,8 +17,8 @@ public:
             
             auto it = upper_bound(arr.begin(), arr.end(), end);
             int j = it-arr.begin();
-            int win = j-i;
-            ans = min(ans, n-win);
+            int window = j-i;
+            ans = min(ans, n-window);
         }
         return ans;
     }
