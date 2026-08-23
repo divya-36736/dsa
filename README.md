@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/divya-36736/dsa/tree/master/2048-build-array-from-permutation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/divya-36736/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/divya-36736/dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/divya-36736/dsa/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/divya-36736/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/divya-36736/dsa/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/divya-36736/dsa/tree/master/2104-sum-of-subarray-ranges) |
@@ -1562,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/divya-36736/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/divya-36736/dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/divya-36736/dsa/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/divya-36736/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/divya-36736/dsa/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/divya-36736/dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
