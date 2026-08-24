@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/divya-36736/dsa/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/divya-36736/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/divya-36736/dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/divya-36736/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/divya-36736/dsa/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1873-longest-nice-substring](https://github.com/divya-36736/dsa/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/divya-36736/dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/divya-36736/dsa/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/divya-36736/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/divya-36736/dsa/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/divya-36736/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1873-longest-nice-substring](https://github.com/divya-36736/dsa/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/divya-36736/dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -1196,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1419-minimum-number-of-frogs-croaking](https://github.com/divya-36736/dsa/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/divya-36736/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1854-maximum-population-year](https://github.com/divya-36736/dsa/tree/master/1854-maximum-population-year) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/divya-36736/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/divya-36736/dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/divya-36736/dsa/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/divya-36736/dsa/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1294,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divya-36736/dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/divya-36736/dsa/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/divya-36736/dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/divya-36736/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2063-vowels-of-all-substrings](https://github.com/divya-36736/dsa/tree/master/2063-vowels-of-all-substrings) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1520,6 +1524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/divya-36736/dsa/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/divya-36736/dsa/tree/master/1137-n-th-tribonacci-number) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/divya-36736/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Greedy
 |  |
 | ------- |
@@ -2073,6 +2078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/divya-36736/dsa/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/divya-36736/dsa/tree/master/0820-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/divya-36736/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/divya-36736/dsa/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -2260,6 +2266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/divya-36736/dsa/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/divya-36736/dsa/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/divya-36736/dsa/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/divya-36736/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/divya-36736/dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/divya-36736/dsa/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -2299,6 +2306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/divya-36736/dsa/tree/master/0207-course-schedule) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/divya-36736/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Bidirectional Search
 |  |
 | ------- |
