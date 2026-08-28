@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/divya-36736/dsa/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/divya-36736/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/divya-36736/dsa/tree/master/0966-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/divya-36736/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/divya-36736/dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0979-di-string-match](https://github.com/divya-36736/dsa/tree/master/0979-di-string-match) |
 | [0990-satisfiability-of-equality-equations](https://github.com/divya-36736/dsa/tree/master/0990-satisfiability-of-equality-equations) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/divya-36736/dsa/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/divya-36736/dsa/tree/master/0840-magic-squares-in-grid) |
 | [0932-beautiful-array](https://github.com/divya-36736/dsa/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/divya-36736/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/divya-36736/dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/divya-36736/dsa/tree/master/1025-divisor-game) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/divya-36736/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/divya-36736/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/divya-36736/dsa/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/divya-36736/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1873-longest-nice-substring](https://github.com/divya-36736/dsa/tree/master/1873-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divya-36736/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
@@ -1125,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/divya-36736/dsa/tree/master/0846-hand-of-straights) |
 | [0924-fair-candy-swap](https://github.com/divya-36736/dsa/tree/master/0924-fair-candy-swap) |
+| [0973-k-closest-points-to-origin](https://github.com/divya-36736/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1009-pancake-sorting](https://github.com/divya-36736/dsa/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/divya-36736/dsa/tree/master/1018-largest-perimeter-triangle) |
@@ -2114,6 +2118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/divya-36736/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/divya-36736/dsa/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/divya-36736/dsa/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/divya-36736/dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -2159,10 +2164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/divya-36736/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/divya-36736/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/divya-36736/dsa/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/divya-36736/dsa/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/divya-36736/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [2101-detonate-the-maximum-bombs](https://github.com/divya-36736/dsa/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/divya-36736/dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Iterator
@@ -2351,4 +2358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/divya-36736/dsa/tree/master/0239-sliding-window-maximum) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/divya-36736/dsa/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
