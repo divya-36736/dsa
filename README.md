@@ -2364,4 +2364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/divya-36736/dsa/tree/master/0973-k-closest-points-to-origin) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/divya-36736/dsa/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/divya-36736/dsa/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
