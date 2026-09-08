@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3862-find-the-smallest-balanced-index](https://github.com/divya-36736/dsa/tree/master/3862-find-the-smallest-balanced-index) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/divya-36736/dsa/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3904-smallest-stable-index-ii](https://github.com/divya-36736/dsa/tree/master/3904-smallest-stable-index-ii) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/divya-36736/dsa/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Math
 |  |
 | ------- |
@@ -1604,6 +1605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/divya-36736/dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/divya-36736/dsa/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/divya-36736/dsa/tree/master/3689-maximum-total-subarray-value-i) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/divya-36736/dsa/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Trie
 |  |
 | ------- |
