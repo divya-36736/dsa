@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/divya-36736/dsa/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divya-36736/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/divya-36736/dsa/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/divya-36736/dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/divya-36736/dsa/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/divya-36736/dsa/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/divya-36736/dsa/tree/master/0496-next-greater-element-i) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/divya-36736/dsa/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/divya-36736/dsa/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divya-36736/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/divya-36736/dsa/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/divya-36736/dsa/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/divya-36736/dsa/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/divya-36736/dsa/tree/master/0507-perfect-number) |
@@ -1274,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/divya-36736/dsa/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/divya-36736/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/divya-36736/dsa/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/divya-36736/dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/divya-36736/dsa/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/divya-36736/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/divya-36736/dsa/tree/master/0518-coin-change-ii) |
@@ -1371,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/divya-36736/dsa/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/divya-36736/dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/divya-36736/dsa/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/divya-36736/dsa/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/divya-36736/dsa/tree/master/1013-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/divya-36736/dsa/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/divya-36736/dsa/tree/master/2050-count-good-numbers) |
@@ -2201,6 +2205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/divya-36736/dsa/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/divya-36736/dsa/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/divya-36736/dsa/tree/master/1025-divisor-game) |
 ## Ordered Set
 |  |
@@ -2364,6 +2369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/divya-36736/dsa/tree/master/0486-predict-the-winner) |
 | [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 ## Dijkstra's Algorithm
 |  |
@@ -2397,4 +2403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divya-36736/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/divya-36736/dsa/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
