@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/divya-36736/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/divya-36736/dsa/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/divya-36736/dsa/tree/master/0721-accounts-merge) |
+| [0767-reorganize-string](https://github.com/divya-36736/dsa/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/divya-36736/dsa/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/divya-36736/dsa/tree/master/0812-rotate-string) |
 | [0848-shifting-letters](https://github.com/divya-36736/dsa/tree/master/0848-shifting-letters) |
@@ -973,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/divya-36736/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/divya-36736/dsa/tree/master/0721-accounts-merge) |
+| [0767-reorganize-string](https://github.com/divya-36736/dsa/tree/master/0767-reorganize-string) |
 | [0840-magic-squares-in-grid](https://github.com/divya-36736/dsa/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/divya-36736/dsa/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1129,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/divya-36736/dsa/tree/master/0630-course-schedule-iii) |
 | [0645-set-mismatch](https://github.com/divya-36736/dsa/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/divya-36736/dsa/tree/master/0721-accounts-merge) |
+| [0767-reorganize-string](https://github.com/divya-36736/dsa/tree/master/0767-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/divya-36736/dsa/tree/master/0846-hand-of-straights) |
 | [0924-fair-candy-swap](https://github.com/divya-36736/dsa/tree/master/0924-fair-candy-swap) |
@@ -1199,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/divya-36736/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/divya-36736/dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divya-36736/dsa/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/divya-36736/dsa/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/divya-36736/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/divya-36736/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/divya-36736/dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1560,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/divya-36736/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/divya-36736/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/divya-36736/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0767-reorganize-string](https://github.com/divya-36736/dsa/tree/master/0767-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/divya-36736/dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/divya-36736/dsa/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/divya-36736/dsa/tree/master/0860-lemonade-change) |
@@ -2123,6 +2128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/divya-36736/dsa/tree/master/0630-course-schedule-iii) |
 | [0743-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/divya-36736/dsa/tree/master/0744-network-delay-time) |
+| [0767-reorganize-string](https://github.com/divya-36736/dsa/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/divya-36736/dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/divya-36736/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
