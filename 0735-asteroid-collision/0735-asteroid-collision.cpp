@@ -11,7 +11,6 @@ public:
                 st.push(asteroids[i]);
             }
             else {
-                // collision
                 while(!st.empty() && st.top() > 0 && 
                       st.top() < abs(asteroids[i])) {
                     st.pop();
@@ -26,7 +25,6 @@ public:
             }
         }
 
-        // convert stack to vector
         vector<int> result(st.size());
         for(int i = st.size()-1; i >= 0; i--) {
             result[i] = st.top();
