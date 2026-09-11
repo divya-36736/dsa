@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/divya-36736/dsa/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/divya-36736/dsa/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divya-36736/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1991-find-the-middle-index-in-array](https://github.com/divya-36736/dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/divya-36736/dsa/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divya-36736/dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/divya-36736/dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1782,6 +1783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divya-36736/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/divya-36736/dsa/tree/master/1854-maximum-population-year) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1991-find-the-middle-index-in-array](https://github.com/divya-36736/dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/divya-36736/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/divya-36736/dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2270-number-of-ways-to-split-array](https://github.com/divya-36736/dsa/tree/master/2270-number-of-ways-to-split-array) |
