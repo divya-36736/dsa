@@ -1,6 +1,6 @@
 class Solution {
-public: 
-    int digitSquareSum(int n){
+public:
+    int square(int n){
         int sum = 0;
         while(n>0){
             int d = n%10;
@@ -13,7 +13,7 @@ public:
         unordered_set<int>seen;
         while(n != 1 && !seen.count(n)){
             seen.insert(n);
-            n = digitSquareSum(n);
+            n = square(n);
         }
         return n == 1;
     }
