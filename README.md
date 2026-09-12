@@ -2440,4 +2440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/divya-36736/dsa/tree/master/0075-sort-colors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/divya-36736/dsa/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
