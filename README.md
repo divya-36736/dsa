@@ -2455,4 +2455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/divya-36736/dsa/tree/master/0032-longest-valid-parentheses) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/divya-36736/dsa/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
