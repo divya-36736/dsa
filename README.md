@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/divya-36736/dsa/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/divya-36736/dsa/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/divya-36736/dsa/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/divya-36736/dsa/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divya-36736/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/divya-36736/dsa/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/divya-36736/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -982,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/divya-36736/dsa/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/divya-36736/dsa/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/divya-36736/dsa/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/divya-36736/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/divya-36736/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/divya-36736/dsa/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/divya-36736/dsa/tree/master/0575-distribute-candies) |
@@ -1785,6 +1787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/divya-36736/dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/divya-36736/dsa/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/divya-36736/dsa/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/divya-36736/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/divya-36736/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/divya-36736/dsa/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/divya-36736/dsa/tree/master/0848-shifting-letters) |
