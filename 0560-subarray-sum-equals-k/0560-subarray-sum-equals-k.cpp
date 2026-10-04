@@ -4,14 +4,14 @@ public:
         int n = nums.size();
         unordered_map<int, int>mp;
         mp[0] = 1;
-        int tot = 0;
+        int sum = 0;
         int cnt = 0;
-        for(int i: nums){
-            tot += i;
-            if(mp.find(tot-k) != mp.end()){
-                cnt += mp[tot-k];
+        for(int i = 0; i<n; i++){
+            sum += nums[i];
+            if(mp.find(sum - k) != mp.end()){
+                cnt += mp[sum-k];
             }
-            mp[tot]++;
+            mp[sum]++;
         }
         return cnt;
     }
