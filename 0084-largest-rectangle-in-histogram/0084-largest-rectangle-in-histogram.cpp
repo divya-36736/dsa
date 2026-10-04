@@ -8,9 +8,8 @@ public:
             while(!st.empty() && (i == n || heights[st.top()] >= heights[i])){
                 int h = heights[st.top()];
                 st.pop();
-
-                int width = st.empty() ? i : i-st.top()-1;
-                maxi = max(maxi, h*width);
+                int w = st.empty() ? i : i-st.top()-1;
+                maxi = max(maxi, h*w);
             }
             st.push(i);
         }
