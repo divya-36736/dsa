@@ -1915,6 +1915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/divya-36736/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/divya-36736/dsa/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/divya-36736/dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/divya-36736/dsa/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -2065,6 +2066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/divya-36736/dsa/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/divya-36736/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/divya-36736/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/divya-36736/dsa/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## String Matching
 |  |
 | ------- |
