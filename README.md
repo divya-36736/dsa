@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/divya-36736/dsa/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divya-36736/dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/divya-36736/dsa/tree/master/2381-shifting-letters-ii) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/divya-36736/dsa/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/divya-36736/dsa/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/divya-36736/dsa/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/divya-36736/dsa/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
