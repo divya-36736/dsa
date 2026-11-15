@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divya-36736/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/divya-36736/dsa/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1514-path-with-maximum-probability](https://github.com/divya-36736/dsa/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divya-36736/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/divya-36736/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/divya-36736/dsa/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/divya-36736/dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/divya-36736/dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/divya-36736/dsa/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/divya-36736/dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divya-36736/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/divya-36736/dsa/tree/master/1642-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/divya-36736/dsa/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/divya-36736/dsa/tree/master/1922-count-good-numbers) |
@@ -1340,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/divya-36736/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/divya-36736/dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/divya-36736/dsa/tree/master/1463-cherry-pickup-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divya-36736/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/divya-36736/dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/divya-36736/dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/divya-36736/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1813,6 +1816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/divya-36736/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/divya-36736/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/divya-36736/dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divya-36736/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/divya-36736/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divya-36736/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/divya-36736/dsa/tree/master/1854-maximum-population-year) |
