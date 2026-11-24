@@ -2454,10 +2454,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/divya-36736/dsa/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/divya-36736/dsa/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/divya-36736/dsa/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/divya-36736/dsa/tree/master/0518-coin-change-ii) |
 ## Z Algorithm
 |  |
